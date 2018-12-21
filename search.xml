@@ -389,7 +389,7 @@
   <entry>
     <title><![CDATA[自用next自定义引用格式表]]></title>
     <url>%2FSelf-use-next-theme-custom-reference-format-table.html</url>
-    <content type="text"><![CDATA[next自定义引用格式表 A note 标签 1&lt;div class="note default"&gt;&lt;p&gt;default&lt;/p&gt;&lt;/div&gt; default 1&lt;div class="note primary"&gt;&lt;p&gt;primary&lt;/p&gt;&lt;/div&gt; primary 1&lt;div class="note success"&gt;&lt;p&gt;success&lt;/p&gt;&lt;/div&gt; success 1&lt;div class="note info"&gt;&lt;p&gt;info&lt;/p&gt;&lt;/div&gt; info 1&lt;div class="note warning"&gt;&lt;p&gt;warning&lt;/p&gt;&lt;/div&gt; warning 1&lt;div class="note danger"&gt;&lt;p&gt;danger&lt;/p&gt;&lt;/div&gt; danger 1&lt;div class="note danger no-icon"&gt;&lt;p&gt;danger no-icon&lt;/p&gt;&lt;/div&gt; danger no-icon B Label 标签 1&#123;% label default@显示内容 %&#125; 显示内容 1&#123;% label primary@黑果小兵 %&#125; 黑果小兵 1&#123;% label success@success %&#125; success 1&#123;% label info@info %&#125; info 1&#123;% label warning@warning %&#125; warning 1&#123;% label danger@danger %&#125; danger C 自定义样式 引用 1&lt;blockquote class="question"&gt;内容&lt;/blockquote&gt; 内容 D 自定义样式 数字块 1&lt;span id="inline-toc"&gt;1.&lt;/span&gt; 1.]]></content>
+    <content type="text"><![CDATA[next自定义引用格式表 A note 标签 1&lt;div class="note default"&gt;&lt;p&gt;default&lt;/p&gt;&lt;/div&gt; default 1&lt;div class="note primary"&gt;&lt;p&gt;primary&lt;/p&gt;&lt;/div&gt; primary 1&lt;div class="note success"&gt;&lt;p&gt;success&lt;/p&gt;&lt;/div&gt; success 1&lt;div class="note info"&gt;&lt;p&gt;info&lt;/p&gt;&lt;/div&gt; info 1&lt;div class="note warning"&gt;&lt;p&gt;warning&lt;/p&gt;&lt;/div&gt; warning 1&lt;div class="note danger"&gt;&lt;p&gt;danger&lt;/p&gt;&lt;/div&gt; danger 1&lt;div class="note danger no-icon"&gt;&lt;p&gt;danger no-icon&lt;/p&gt;&lt;/div&gt; danger no-icon B Label 标签 1&#123;% label default@显示内容 %&#125; 显示内容 1&#123;% label primary@黑果小兵 %&#125; 黑果小兵 1&#123;% label success@success %&#125; success 1&#123;% label info@info %&#125; info 1&#123;% label warning@warning %&#125; warning 1&#123;% label danger@danger %&#125; danger C 自定义样式 引用 1&lt;blockquote class="question"&gt;内容&lt;/blockquote&gt; 内容 D 自定义样式 数字块 1&lt;span id="inline-toc"&gt;1.&lt;/span&gt; 1. 这是一个测试]]></content>
       <categories>
         <category>hexo</category>
         <category>教程</category>
@@ -597,8 +597,8 @@
       </categories>
       <tags>
         <tag>EFI</tag>
-        <tag>Clover</tag>
         <tag>UEFI</tag>
+        <tag>Clover</tag>
         <tag>引导</tag>
       </tags>
   </entry>
@@ -906,9 +906,9 @@
       <tags>
         <tag>10.13</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
-        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -935,8 +935,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>下载</tag>
-        <tag>镜像</tag>
         <tag>DB7</tag>
+        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
