@@ -1909,7 +1909,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #85715c;
+  background: #ff1bd1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2682,6 +2682,20 @@ embed {
 }
 body {
   color: #000;
+}
+code {
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  color: #555;
+  border-radius: 3px;
+  font-size: 12px;
+  background-color: #ffc0cb;
+  margin: auto 2px;
+  border-radius: 5px;
+  display: inline-block;
+  box-shadow: 0.4px 0.5px 0.4px 0.4px #ddd;
 }
 @font-face {
   font-family: 'Linux Biolinum';
