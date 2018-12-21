@@ -1909,7 +1909,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff1bd1;
+  background: #3699ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2690,11 +2690,10 @@ code {
   word-wrap: break-word;
   color: #555;
   border-radius: 3px;
-  font-size: 12px;
+  font-size: 14px;
   background-color: #ffc0cb;
   margin: auto 2px;
   border-radius: 5px;
-  display: inline-block;
   box-shadow: 0.4px 0.5px 0.4px 0.4px #ddd;
 }
 @font-face {
