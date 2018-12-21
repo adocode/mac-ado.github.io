@@ -1372,9 +1372,9 @@
     
       <category term="EFI" scheme="https://blog.daliansky.net/tags/EFI/"/>
     
-      <category term="UEFI" scheme="https://blog.daliansky.net/tags/UEFI/"/>
-    
       <category term="Clover" scheme="https://blog.daliansky.net/tags/Clover/"/>
+    
+      <category term="UEFI" scheme="https://blog.daliansky.net/tags/UEFI/"/>
     
       <category term="引导" scheme="https://blog.daliansky.net/tags/%E5%BC%95%E5%AF%BC/"/>
     
@@ -2064,11 +2064,11 @@ hda-verb是linu
     
       <category term="下载" scheme="https://blog.daliansky.net/tags/%E4%B8%8B%E8%BD%BD/"/>
     
-      <category term="镜像" scheme="https://blog.daliansky.net/tags/%E9%95%9C%E5%83%8F/"/>
-    
       <category term="DB8" scheme="https://blog.daliansky.net/tags/DB8/"/>
     
       <category term="17A358a" scheme="https://blog.daliansky.net/tags/17A358a/"/>
+    
+      <category term="镜像" scheme="https://blog.daliansky.net/tags/%E9%95%9C%E5%83%8F/"/>
     
   </entry>
   
@@ -2129,9 +2129,9 @@ hda-verb是linu
     
       <category term="下载" scheme="https://blog.daliansky.net/tags/%E4%B8%8B%E8%BD%BD/"/>
     
-      <category term="DB7" scheme="https://blog.daliansky.net/tags/DB7/"/>
-    
       <category term="镜像" scheme="https://blog.daliansky.net/tags/%E9%95%9C%E5%83%8F/"/>
+    
+      <category term="DB7" scheme="https://blog.daliansky.net/tags/DB7/"/>
     
   </entry>
   
