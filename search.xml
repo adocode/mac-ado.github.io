@@ -9,8 +9,8 @@
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>macOS</tag>
         <tag>安装</tag>
+        <tag>macOS</tag>
         <tag>小新air</tag>
         <tag>2018</tag>
         <tag>联想</tag>
@@ -140,8 +140,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>CLOVER</tag>
+        <tag>教程</tag>
         <tag>UEFI</tag>
       </tags>
   </entry>
@@ -185,10 +185,10 @@
       </categories>
       <tags>
         <tag>Mojave</tag>
-        <tag>framebuffer</tag>
         <tag>10.13.6</tag>
         <tag>17G2112</tag>
         <tag>10.14</tag>
+        <tag>framebuffer</tag>
         <tag>patch</tag>
       </tags>
   </entry>
@@ -277,9 +277,9 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>CLOVER</tag>
         <tag>小米PRO</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -440,9 +440,9 @@
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>macOS</tag>
         <tag>安装</tag>
         <tag>小米Pro</tag>
+        <tag>macOS</tag>
         <tag>XiaoMi-Pro</tag>
         <tag>XiaoMiPro</tag>
       </tags>
@@ -597,8 +597,8 @@
       </categories>
       <tags>
         <tag>EFI</tag>
-        <tag>UEFI</tag>
         <tag>Clover</tag>
+        <tag>UEFI</tag>
         <tag>引导</tag>
       </tags>
   </entry>
@@ -677,8 +677,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>安装</tag>
         <tag>黑屏</tag>
+        <tag>安装</tag>
         <tag>花屏</tag>
         <tag>EDID</tag>
         <tag>常见问题</tag>

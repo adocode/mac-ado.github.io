@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>黑果小兵的部落阁</title>
   
-  <subtitle>https://blog.daliansky.net</subtitle>
+  <subtitle>Daliansky的空中楼阁</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.daliansky.net/"/>
@@ -39,9 +39,9 @@
     
       <category term="教程" scheme="https://blog.daliansky.net/tags/%E6%95%99%E7%A8%8B/"/>
     
-      <category term="macOS" scheme="https://blog.daliansky.net/tags/macOS/"/>
-    
       <category term="安装" scheme="https://blog.daliansky.net/tags/%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="macOS" scheme="https://blog.daliansky.net/tags/macOS/"/>
     
       <category term="小新air" scheme="https://blog.daliansky.net/tags/%E5%B0%8F%E6%96%B0air/"/>
     
@@ -333,9 +333,9 @@
       <category term="教程" scheme="https://blog.daliansky.net/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="教程" scheme="https://blog.daliansky.net/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="CLOVER" scheme="https://blog.daliansky.net/tags/CLOVER/"/>
+    
+      <category term="教程" scheme="https://blog.daliansky.net/tags/%E6%95%99%E7%A8%8B/"/>
     
       <category term="UEFI" scheme="https://blog.daliansky.net/tags/UEFI/"/>
     
@@ -435,13 +435,13 @@
     
       <category term="Mojave" scheme="https://blog.daliansky.net/tags/Mojave/"/>
     
-      <category term="framebuffer" scheme="https://blog.daliansky.net/tags/framebuffer/"/>
-    
       <category term="10.13.6" scheme="https://blog.daliansky.net/tags/10-13-6/"/>
     
       <category term="17G2112" scheme="https://blog.daliansky.net/tags/17G2112/"/>
     
       <category term="10.14" scheme="https://blog.daliansky.net/tags/10-14/"/>
+    
+      <category term="framebuffer" scheme="https://blog.daliansky.net/tags/framebuffer/"/>
     
       <category term="patch" scheme="https://blog.daliansky.net/tags/patch/"/>
     
@@ -639,11 +639,11 @@
       <category term="教程" scheme="https://blog.daliansky.net/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="教程" scheme="https://blog.daliansky.net/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="CLOVER" scheme="https://blog.daliansky.net/tags/CLOVER/"/>
     
       <category term="小米PRO" scheme="https://blog.daliansky.net/tags/%E5%B0%8F%E7%B1%B3PRO/"/>
+    
+      <category term="教程" scheme="https://blog.daliansky.net/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -1007,11 +1007,11 @@
     
       <category term="教程" scheme="https://blog.daliansky.net/tags/%E6%95%99%E7%A8%8B/"/>
     
-      <category term="macOS" scheme="https://blog.daliansky.net/tags/macOS/"/>
-    
       <category term="安装" scheme="https://blog.daliansky.net/tags/%E5%AE%89%E8%A3%85/"/>
     
       <category term="小米Pro" scheme="https://blog.daliansky.net/tags/%E5%B0%8F%E7%B1%B3Pro/"/>
+    
+      <category term="macOS" scheme="https://blog.daliansky.net/tags/macOS/"/>
     
       <category term="XiaoMi-Pro" scheme="https://blog.daliansky.net/tags/XiaoMi-Pro/"/>
     
@@ -1372,9 +1372,9 @@
     
       <category term="EFI" scheme="https://blog.daliansky.net/tags/EFI/"/>
     
-      <category term="UEFI" scheme="https://blog.daliansky.net/tags/UEFI/"/>
-    
       <category term="Clover" scheme="https://blog.daliansky.net/tags/Clover/"/>
+    
+      <category term="UEFI" scheme="https://blog.daliansky.net/tags/UEFI/"/>
     
       <category term="引导" scheme="https://blog.daliansky.net/tags/%E5%BC%95%E5%AF%BC/"/>
     
@@ -1550,9 +1550,9 @@
     
       <category term="High Sierra" scheme="https://blog.daliansky.net/tags/High-Sierra/"/>
     
-      <category term="安装" scheme="https://blog.daliansky.net/tags/%E5%AE%89%E8%A3%85/"/>
-    
       <category term="黑屏" scheme="https://blog.daliansky.net/tags/%E9%BB%91%E5%B1%8F/"/>
+    
+      <category term="安装" scheme="https://blog.daliansky.net/tags/%E5%AE%89%E8%A3%85/"/>
     
       <category term="花屏" scheme="https://blog.daliansky.net/tags/%E8%8A%B1%E5%B1%8F/"/>
     

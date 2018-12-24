@@ -124,7 +124,7 @@
     root: '/',
     scheme: 'Muse',
     version: '6.6.0',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
     fancybox: true,
     fastclick: false,
     lazyload: false,
@@ -150,7 +150,7 @@
 <meta name="keywords" content="daliansky,黑果小兵,macOS,Hackintosh,黑苹果,linux">
 <meta property="og:type" content="website">
 <meta property="og:title" content="黑果小兵的部落阁">
-<meta property="og:url" content="https://blog.daliansky.net/tags/CLOVER/index.html">
+<meta property="og:url" content="https://blog.daliansky.net/tags/clover/index.html">
 <meta property="og:site_name" content="黑果小兵的部落阁">
 <meta property="og:description" content="黑果小兵">
 <meta property="og:locale" content="zh-CN">
@@ -165,7 +165,7 @@
 
 
 
-  <link rel="canonical" href="https://blog.daliansky.net/tags/CLOVER/">
+  <link rel="canonical" href="https://blog.daliansky.net/tags/clover/">
 
 
 
@@ -175,7 +175,7 @@
   };
 </script>
 
-  <title>标签: CLOVER | 黑果小兵的部落阁</title>
+  <title>标签: clover | 黑果小兵的部落阁</title>
   
 
 
@@ -240,7 +240,7 @@
     </div>
     
       
-        <p class="site-subtitle">https://blog.daliansky.net</p>
+        <p class="site-subtitle">Daliansky的空中楼阁</p>
       
     
   </div>
@@ -436,7 +436,7 @@
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h1>CLOVER<small>标签</small>
+        <h1>clover<small>标签</small>
         </h1>
       </div>
 
@@ -448,43 +448,17 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/Add-CLOVER-boot-to-UEFI-without-any-tools.html" itemprop="url">
+            <a class="post-title-link" href="/clover-user-manual.html" itemprop="url">
               
-                <span itemprop="name">不借助任何工具将CLOVER引导添加进UEFI的正确姿势</span>
-              
-            </a>
-        
-      </h2>
-
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2018-09-20T08:56:12+08:00" content="2018-09-20">
-          09-20
-        </time>
-      </div>
-
-    </header>
-  </article>
-
-
-      
-        
-
-  <article class="post post-type-archive" itemscope="" itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <h2 class="post-title">
-        
-            <a class="post-title-link" href="/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html" itemprop="url">
-              
-                <span itemprop="name">【黑果小兵】CLOVER v2.4 r4438集成小米笔记本PRO EFI安装说明</span>
+                <span itemprop="name">clover使用教程</span>
               
             </a>
         
       </h2>
 
       <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2018-04-13T13:10:15+08:00" content="2018-04-13">
-          04-13
+        <time class="post-time" itemprop="dateCreated" datetime="2017-10-20T11:19:06+08:00" content="2017-10-20">
+          10-20
         </time>
       </div>
 
@@ -1122,6 +1096,8 @@
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         
+          <span id="scrollpercent"><span>0</span>%</span>
+        
       </div>
     
 
@@ -1677,7 +1653,31 @@
 
 <script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","model":{"scale":0.8,"hHeadPos":0.5,"vHeadPos":0.618,"jsonPath":"/live2dw/assets/tororo.model.json"},"display":{"superSample":2,"width":150,"height":300,"position":"right","hOffset":0,"vOffset":-20},"mobile":{"show":false,"scale":0.5},"react":{"opacityDefault":0.7,"opacityOnHover":0.2},"log":false,"tagMode":false});</script></body>
 </html>
-2/route?appId=' + "u1cCU9pnOGMB1PPY04TV5JA6-gzGzoHsz")
+ < results.length; i++) {
+            var item = results[i];
+            var url = item.url;
+            var time = item.time;
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+          for(var i = 0; i < entries.length; i++) {
+            var url = entries[i];
+            var element = document.getElementById(url);
+            var countSpan = $(element).find(COUNT_CONTAINER_REF);
+            if( countSpan.text() == '') {
+              countSpan.text(0);
+            }
+          }
+        })
+        .fail(function ({ responseJSON }) {
+          console.log("LeanCloud Counter Error: " + responseJSON.code + " " + responseJSON.error);
+        });
+    }
+    
+
+    $(function() {
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + "u1cCU9pnOGMB1PPY04TV5JA6-gzGzoHsz")
         .done(function ({ api_server }) {
           var Counter = function (method, url, data) {
             return $.ajax({

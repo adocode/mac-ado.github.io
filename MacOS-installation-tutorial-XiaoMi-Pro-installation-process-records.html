@@ -124,7 +124,7 @@
     root: '/',
     scheme: 'Muse',
     version: '6.6.0',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
     fancybox: true,
     fastclick: false,
     lazyload: false,
@@ -147,7 +147,7 @@
 
 
   <meta name="description" content="引言 一直以来就想写个macOS的安装教程,可惜没有TransMac以及BIOS设置的截图,正好小米PRO黑苹果高级群的班长@原味菠萝最近一直在写小米Pro安装黑苹果的教程,由于他工作繁忙,一直也没有完稿,我就在他写作的基础上将这篇教程完善.   Windows下制作macOS安装盘  准备工具  U盘大于8G U 盘大小不限做 PE 盘 etcher 小米PRO专用EFI文件 系统镜像   制">
-<meta name="keywords" content="教程,macOS,安装,小米Pro,XiaoMi-Pro,XiaoMiPro">
+<meta name="keywords" content="教程,安装,小米Pro,macOS,XiaoMi-Pro,XiaoMiPro">
 <meta property="og:type" content="article">
 <meta property="og:title" content="macOS安装教程兼小米Pro安装过程记录">
 <meta property="og:url" content="https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html">
@@ -278,7 +278,7 @@
     </div>
     
       
-        <p class="site-subtitle">https://blog.daliansky.net</p>
+        <p class="site-subtitle">Daliansky的空中楼阁</p>
       
     
   </div>
@@ -897,6 +897,35 @@
       
     
     
+      <div>
+        <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+  <div></div>
+  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+    <span>打赏</span>
+  </button>
+  <div id="QR" style="display: none;">
+
+    
+      <div id="wechat" style="display: inline-block">
+        <img id="wechat_qr" src="/images/wechatpay.jpg" alt="黑果小兵 微信支付">
+        <p>微信支付</p>
+      </div>
+    
+
+    
+      <div id="alipay" style="display: inline-block">
+        <img id="alipay_qr" src="/images/alipay.jpg" alt="黑果小兵 支付宝">
+        <p>支付宝</p>
+      </div>
+    
+
+    
+
+  </div>
+</div>
+
+      </div>
+    
 
     
 
@@ -906,11 +935,11 @@
           
             <a href="/tags/教程/" rel="tag"><i class="fa fa-tag"></i> 教程</a>
           
-            <a href="/tags/macOS/" rel="tag"><i class="fa fa-tag"></i> macOS</a>
-          
             <a href="/tags/安装/" rel="tag"><i class="fa fa-tag"></i> 安装</a>
           
             <a href="/tags/小米Pro/" rel="tag"><i class="fa fa-tag"></i> 小米Pro</a>
+          
+            <a href="/tags/macOS/" rel="tag"><i class="fa fa-tag"></i> macOS</a>
           
             <a href="/tags/XiaoMi-Pro/" rel="tag"><i class="fa fa-tag"></i> XiaoMi-Pro</a>
           
@@ -1609,6 +1638,8 @@
     
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
+        
+          <span id="scrollpercent"><span>0</span>%</span>
         
       </div>
     

@@ -124,7 +124,7 @@
     root: '/',
     scheme: 'Muse',
     version: '6.6.0',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
     fancybox: true,
     fastclick: false,
     lazyload: false,
@@ -147,7 +147,7 @@
 
 
   <meta name="description" content="将CLOVER引导添加进UEFI BOOT Option Menu的正确姿势  很多网友在安装完 MacOS 后的第一件事情就是要将USB的EFI复制进磁盘里，同时需要将CLOVER的引导项添加UEFI BOOT里，这里我教大家一个最简单的方法   将 MacOS 系统的EFI移动进磁盘的EFI分区里  单磁盘单 MacOS 系统 两种方式：  请使用工具： Clover Configurato">
-<meta name="keywords" content="EFI,UEFI,Clover,引导">
+<meta name="keywords" content="EFI,Clover,UEFI,引导">
 <meta property="og:type" content="article">
 <meta property="og:title" content="将CLOVER引导添加进UEFI BOOT Option Menu的正确姿势">
 <meta property="og:url" content="https://blog.daliansky.net/Add-the-CLOVER-boot-to-the-correct-posture-of-the-UEFI-Boot-Option-Menu.html">
@@ -246,7 +246,7 @@
     </div>
     
       
-        <p class="site-subtitle">https://blog.daliansky.net</p>
+        <p class="site-subtitle">Daliansky的空中楼阁</p>
       
     
   </div>
@@ -632,6 +632,35 @@
       
     
     
+      <div>
+        <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+  <div></div>
+  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+    <span>打赏</span>
+  </button>
+  <div id="QR" style="display: none;">
+
+    
+      <div id="wechat" style="display: inline-block">
+        <img id="wechat_qr" src="/images/wechatpay.jpg" alt="黑果小兵 微信支付">
+        <p>微信支付</p>
+      </div>
+    
+
+    
+      <div id="alipay" style="display: inline-block">
+        <img id="alipay_qr" src="/images/alipay.jpg" alt="黑果小兵 支付宝">
+        <p>支付宝</p>
+      </div>
+    
+
+    
+
+  </div>
+</div>
+
+      </div>
+    
 
     
 
@@ -641,9 +670,9 @@
           
             <a href="/tags/EFI/" rel="tag"><i class="fa fa-tag"></i> EFI</a>
           
-            <a href="/tags/UEFI/" rel="tag"><i class="fa fa-tag"></i> UEFI</a>
-          
             <a href="/tags/Clover/" rel="tag"><i class="fa fa-tag"></i> Clover</a>
+          
+            <a href="/tags/UEFI/" rel="tag"><i class="fa fa-tag"></i> UEFI</a>
           
             <a href="/tags/引导/" rel="tag"><i class="fa fa-tag"></i> 引导</a>
           
@@ -1340,6 +1369,8 @@
     
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
+        
+          <span id="scrollpercent"><span>0</span>%</span>
         
       </div>
     

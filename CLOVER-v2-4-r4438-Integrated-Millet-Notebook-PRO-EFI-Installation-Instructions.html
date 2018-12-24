@@ -124,7 +124,7 @@
     root: '/',
     scheme: 'Muse',
     version: '6.6.0',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
     fancybox: true,
     fastclick: false,
     lazyload: false,
@@ -147,7 +147,7 @@
 
 
   <meta name="description" content="运行Clover_v2.4k_r4438.pkg安装程序 下载链接：Clover_v2.4k_r4438.pkg  本安装程序会覆盖你的EFI，所以请事先备份EFI，再执行改名或者删除的操作，安装程序会安装全新的EFI到你的ESP分区（其实Clover会自动在你的macOS系统根目录下创建EFI-Backups并且自动备份）   点击继续  请先阅读更新内容，然后点击继续  如果是更新安装的情况">
-<meta name="keywords" content="教程,CLOVER,小米PRO">
+<meta name="keywords" content="CLOVER,小米PRO,教程">
 <meta property="og:type" content="article">
 <meta property="og:title" content="【黑果小兵】CLOVER v2.4 r4438集成小米笔记本PRO EFI安装说明">
 <meta property="og:url" content="https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html">
@@ -252,7 +252,7 @@
     </div>
     
       
-        <p class="site-subtitle">https://blog.daliansky.net</p>
+        <p class="site-subtitle">Daliansky的空中楼阁</p>
       
     
   </div>
@@ -647,6 +647,35 @@
       
     
     
+      <div>
+        <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+  <div></div>
+  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+    <span>打赏</span>
+  </button>
+  <div id="QR" style="display: none;">
+
+    
+      <div id="wechat" style="display: inline-block">
+        <img id="wechat_qr" src="/images/wechatpay.jpg" alt="黑果小兵 微信支付">
+        <p>微信支付</p>
+      </div>
+    
+
+    
+      <div id="alipay" style="display: inline-block">
+        <img id="alipay_qr" src="/images/alipay.jpg" alt="黑果小兵 支付宝">
+        <p>支付宝</p>
+      </div>
+    
+
+    
+
+  </div>
+</div>
+
+      </div>
+    
 
     
 
@@ -654,11 +683,11 @@
       
         <div class="post-tags">
           
-            <a href="/tags/教程/" rel="tag"><i class="fa fa-tag"></i> 教程</a>
-          
             <a href="/tags/CLOVER/" rel="tag"><i class="fa fa-tag"></i> CLOVER</a>
           
             <a href="/tags/小米PRO/" rel="tag"><i class="fa fa-tag"></i> 小米PRO</a>
+          
+            <a href="/tags/教程/" rel="tag"><i class="fa fa-tag"></i> 教程</a>
           
         </div>
       
@@ -1353,6 +1382,8 @@
     
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
+        
+          <span id="scrollpercent"><span>0</span>%</span>
         
       </div>
     
