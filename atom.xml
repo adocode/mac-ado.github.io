@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.daliansky.net/"/>
-  <updated>2018-12-20T10:03:26.088Z</updated>
+  <updated>2018-12-24T09:36:23.388Z</updated>
   <id>https://blog.daliansky.net/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Intel FB Patcher USB定制视频</title>
+    <link href="https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html"/>
+    <id>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</id>
+    <published>2018-12-21T16:36:23.000Z</published>
+    <updated>2018-12-24T09:36:23.388Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="intel-fb-patcher-usb定制视频"><a class="markdownIt-Anchor" href="#intel-fb-patcher-usb定制视频"></a> Intel FB Patcher USB定制视频</h2><blockquote><p>从10.14.2开始，旧有的解除<code>USB端口限制</code>的补丁已经失效，很多的台式机因此而无法使用到所有的端口，本视频教程就是帮助大家更好地定制自己的USB驱动</p></blockquote><div class="note success"><p>主旨：<br></p><ul><li>将可用的端口控制在15个以内；</li><li>USB 3.0端口优先，必要的情况下删除掉部分USB2.0端口</li></ul></div><div class="note warning"><p>警告：<br></p><ul><li>固定插入的设备要改成内建，否则会存在睡眠秒醒的问题</li></ul></div><div class="note primary"><p>小课堂：<br></p><ul><li>一条命令显示USB数量</li></ul></div><p>打开终端，输入命令：<br></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sh -c <span class="string">"<span class="variable">$(curl -fsSL https://raw.githubusercontent.com/daliansky/dell7000/master/Tools/usb_Ports)</span>"</span></span><br></pre></td></tr></table></figure><p>输出如下：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">+--XHC@14IOPCIDevice</span><br><span class="line">|+--XHC@14000000</span><br><span class="line">|+--HS01@14100000</span><br><span class="line">|+--HS02@14200000</span><br><span class="line">|+--HS03@14300000</span><br><span class="line">|+--HS04@14400000</span><br><span class="line">|+--HS05@14500000</span><br><span class="line">||+--Integrated_Webcam_HD@14500000</span><br><span class="line">|+--HS06@14600000</span><br><span class="line">||+--USB2.0-CRW@14600000</span><br><span class="line">|+--HS07@14700000</span><br><span class="line">|+--HS08@14800000</span><br><span class="line">||+--BCM20702A0@14800000</span><br><span class="line">|+--HS09@14900000</span><br><span class="line">|+--HS10@14a00000</span><br><span class="line">|+--USR1@14b00000</span><br><span class="line">|+--USR2@14c00000</span><br><span class="line">|+--SS01@14d00000</span><br><span class="line">|+--SS02@14e00000</span><br><span class="line">|+--SS03@14f00000</span><br><span class="line">+--pci80869d31@142IOPCIDevice</span><br><span class="line">+--AppleUSBXHCI@14000000AppleUSBController</span><br><span class="line">+--AppleUSBXHCIHub</span><br><span class="line">+--USB2.0-CRW@14600000AppleUSBDevice</span><br><span class="line">+--Integrated_Webcam_HD@14500000AppleUSBDevice</span><br><span class="line">+--BCM20702A0@14800000AppleUSBDevice</span><br></pre></td></tr></table></figure><h3 id="操作步骤"><a class="markdownIt-Anchor" href="#操作步骤"></a> 操作步骤</h3><div class="note default"><p>config.plist配置文件修改的整体思路</p><p>Part 1: 添加引导标志<code>-uia_exclude_ss</code>，目的：禁止加载<code>SSxx</code>设备，先把<code>HSxx</code>找出来<br></p><p>Part 2: 添加引导标志<code>uia_include=HS03,HS08 -uia_exclude_hs</code>，目的：禁止加载<code>HSxx</code>设备，但保留<code>HS03,HS08</code>，保证鼠标和键盘工作，同时满足识别<code>SSxx</code>的需要<br></p><p>Part 3: 删除引导标志<code>uia_include=HS03,HS08 -uia_exclude_hs</code>，目的：完成USB定制，让USB各端口恢复正常功能</p></div><ol><li>打开<code>黑果小兵的部落阁</code>：<a href="https://blog.daliansky.net">https://blog.daliansky.net</a></li><li>搜索文章：<code>Intel FB Patcher</code></li><li>下载: <code>FBPatcher.zip</code> <a href="http://headsoft.com.au/download/mac/FBPatcher.zip" target="_blank" rel="noopener">http://headsoft.com.au/download/mac/FBPatcher.zip</a></li><li>下载：<a href="https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/" target="_blank" rel="noopener">USBInjectAll.kext v0.7.1</a></li><li>挂载：ESP分区</li><li>将<a href="https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/" target="_blank" rel="noopener">USBInjectAll.kext v0.7.1</a>复制到<code>EFI/CLOVER/kexts/Other</code>目录下</li><li>打开<code>config.plist</code>，在引导标志里添加参数：<code>-uia_exclude_ss</code>，保存重启</li><li>运行<code>Intel FB Patcher</code>工具，转到<code>General-&gt;USB</code>选项</li><li>将<code>USB 2.0</code>和<code>USB 3.0</code>设备插入并拔出系统的每个USB端口，这里有个窍门：看USB端口的颜色，蓝色为USB3.0，黑色为USB2.0。</li><li>记录下来键盘和鼠标的接口，比如：<code>HS03</code>和<code>HS08</code>，后面我们会用到这两个端口做为参数注入到<code>config.plist</code>里，参数为：<code>uia_include=HS03,HS08</code>，意思是保留这两个端口的正常使用，下一步要屏蔽掉<code>HSxx</code>的所有接口，将之前的参数<code>-uia_exclude_ss</code>修改为<code>-uia_exclude_hs</code>，完整的参数变为：<code>uia_include=HS03,HS08 -uia_exclude_hs</code>意思是除了<code>HS03</code>和<code>HS08</code>外，其它所有的<code>HSxx</code>端口都不包括。保存重启</li><li>运行<code>Intel FB Patcher</code>工具，转到<code>General-&gt;USB</code>选项</li><li>将<code>USB 3.0</code>设备插入并拔出系统的每个USB端口，这里面注意：只有端口为<code>SSxx</code>的才会被识别出来</li><li>将没变成绿色的所有的未用的端口都删除掉</li><li>导出定制的<code>USBPorts.kext</code>文件</li><li>将<code>USBPorts.kext</code>复制到<code>EFI/CLOVER/kexts/Other</code>目录下</li><li>删除引导参数：<code>uia_include=HS03,HS08 -uia_exclude_hs</code></li><li>保存重启</li><li>运行<code>Intel FB Patcher</code>工具，转到<code>General-&gt;USB</code>选项，检查USB端口情况，打开<code>系统报告-USB</code>查看<code>USB 3.0</code>是否变成<code>5G</code></li></ol><h2 id="qq群列表"><a class="markdownIt-Anchor" href="#qq群列表"></a> QQ群列表：</h2><div class="note success"><p>688324116 <a href="https://shang.qq.com/wpa/qunwpa?idkey=6bf69a6f4b983dce94ab42e439f02195dfd19a1601522c10ad41f4df97e0da82" target="_blank" rel="noopener">一起黑苹果</a> 2000人群 已满<br>331686786 <a href="http://shang.qq.com/wpa/qunwpa?idkey=db511a29e856f37cbb871108ffa77a6e79dde47e491b8f2c8d8fe4d3c310de91" target="_blank" rel="noopener">一起吃苹果</a> 2000人群 尚有空位<br>257995340 <a href="http://shang.qq.com/wpa/qunwpa?idkey=8a63c51acb2bb80184d788b9f419ffcc33aa1ed2080132c82173a3d881625be8" target="_blank" rel="noopener">一起啃苹果</a> 2000人群 尚有空位<br>891434070 <a href="https://blog.daliansky.net/http//shang.qq.com/wpa/qunwpa?idkey=be06e4c13e796e06a5cd3151d7fcc8f2feee8f9b68b1620ce8771111e2822084">Mojave黑苹果交流群</a> 2000人群 尚有空位<br>939122730 <a href="http://shang.qq.com/wpa/qunwpa?idkey=e7fb8ea793aee10f9e86c70cd134867bde4183cc3eb87424e61e50b3e9cabf72" target="_blank" rel="noopener">Mojave黑苹果交流II群</a> 2000人群<br>891677227 <a href="https://blog.daliansky.net/http//shang.qq.com/wpa/qunwpa?idkey=9a1eaa552c45d736bb6b19d82ad80e76bf82729f1c1a975b437aa3858473231d">黑果小兵高级群</a> 2000人群 尚有空位<br>943307869 <a href="https://blog.daliansky.net/http//shang.qq.com/wpa/qunwpa?idkey=7080e6ff936fd2e207439ea18c0a34b4651db81ff45d0edf27b34a21a037871e">黑果小兵高级群II</a> 2000人群 新开群，欢迎踊跃加入<br>943181023 <a href="https://blog.daliansky.net/http//shang.qq.com/wpa/qunwpa?idkey=fb772a7e01436d43e1d856a099549551952bb08161ced4a8fc08b4e75e7ab438">联想小新Air黑苹果交流群</a> 500人群 非专用机型请勿加入</p></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;intel-fb-patcher-usb定制视频&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#intel-fb-patcher-usb定制视频&quot;&gt;&lt;/a&gt; Intel FB Patcher USB定制视频&lt;/h2&gt;
+&lt;blockquo
+      
+    
+    </summary>
+    
+      <category term="USB" scheme="https://blog.daliansky.net/categories/USB/"/>
+    
+      <category term="教程" scheme="https://blog.daliansky.net/categories/USB/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="USB" scheme="https://blog.daliansky.net/tags/USB/"/>
+    
+      <category term="定制" scheme="https://blog.daliansky.net/tags/%E5%AE%9A%E5%88%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>联想小新Air 13安装黑苹果兼macOS Mojave安装教程</title>
@@ -404,9 +434,9 @@
     
       <category term="Mojave" scheme="https://blog.daliansky.net/tags/Mojave/"/>
     
-      <category term="安装" scheme="https://blog.daliansky.net/tags/%E5%AE%89%E8%A3%85/"/>
-    
       <category term="10.14" scheme="https://blog.daliansky.net/tags/10-14/"/>
+    
+      <category term="安装" scheme="https://blog.daliansky.net/tags/%E5%AE%89%E8%A3%85/"/>
     
       <category term="常见问题" scheme="https://blog.daliansky.net/tags/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
     
@@ -437,9 +467,9 @@
     
       <category term="10.13.6" scheme="https://blog.daliansky.net/tags/10-13-6/"/>
     
-      <category term="17G2112" scheme="https://blog.daliansky.net/tags/17G2112/"/>
-    
       <category term="10.14" scheme="https://blog.daliansky.net/tags/10-14/"/>
+    
+      <category term="17G2112" scheme="https://blog.daliansky.net/tags/17G2112/"/>
     
       <category term="framebuffer" scheme="https://blog.daliansky.net/tags/framebuffer/"/>
     
@@ -1071,6 +1101,8 @@
       <category term="教程" scheme="https://blog.daliansky.net/categories/%E6%95%99%E7%A8%8B/"/>
     
     
+      <category term="USB" scheme="https://blog.daliansky.net/tags/USB/"/>
+    
       <category term="Ubuntu" scheme="https://blog.daliansky.net/tags/Ubuntu/"/>
     
       <category term="Linux" scheme="https://blog.daliansky.net/tags/Linux/"/>
@@ -1078,8 +1110,6 @@
       <category term="dd" scheme="https://blog.daliansky.net/tags/dd/"/>
     
       <category term="diskutil" scheme="https://blog.daliansky.net/tags/diskutil/"/>
-    
-      <category term="USB" scheme="https://blog.daliansky.net/tags/USB/"/>
     
   </entry>
   
@@ -1372,9 +1402,9 @@
     
       <category term="EFI" scheme="https://blog.daliansky.net/tags/EFI/"/>
     
-      <category term="Clover" scheme="https://blog.daliansky.net/tags/Clover/"/>
-    
       <category term="UEFI" scheme="https://blog.daliansky.net/tags/UEFI/"/>
+    
+      <category term="Clover" scheme="https://blog.daliansky.net/tags/Clover/"/>
     
       <category term="引导" scheme="https://blog.daliansky.net/tags/%E5%BC%95%E5%AF%BC/"/>
     
