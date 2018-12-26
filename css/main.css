@@ -2015,7 +2015,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff21ff;
+  background: #50ffaa;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2866,6 +2866,7 @@ code {
 }
 .posts-expand {
   padding-top: 20px;
+  background-color: #fff;
 }
 .posts-expand .post-meta {
   margin: 5px 0px 0px 0px;
