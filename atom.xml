@@ -467,9 +467,9 @@
     
       <category term="10.13.6" scheme="https://blog.daliansky.net/tags/10-13-6/"/>
     
-      <category term="10.14" scheme="https://blog.daliansky.net/tags/10-14/"/>
-    
       <category term="17G2112" scheme="https://blog.daliansky.net/tags/17G2112/"/>
+    
+      <category term="10.14" scheme="https://blog.daliansky.net/tags/10-14/"/>
     
       <category term="framebuffer" scheme="https://blog.daliansky.net/tags/framebuffer/"/>
     
@@ -1719,15 +1719,15 @@
       <category term="教程" scheme="https://blog.daliansky.net/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="CPUFriend" scheme="https://blog.daliansky.net/tags/CPUFriend/"/>
-    
       <category term="Lilu" scheme="https://blog.daliansky.net/tags/Lilu/"/>
     
       <category term="Plugins" scheme="https://blog.daliansky.net/tags/Plugins/"/>
     
-      <category term="CPU变频" scheme="https://blog.daliansky.net/tags/CPU%E5%8F%98%E9%A2%91/"/>
-    
       <category term="插件" scheme="https://blog.daliansky.net/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="CPUFriend" scheme="https://blog.daliansky.net/tags/CPUFriend/"/>
+    
+      <category term="CPU变频" scheme="https://blog.daliansky.net/tags/CPU%E5%8F%98%E9%A2%91/"/>
     
   </entry>
   

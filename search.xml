@@ -199,8 +199,8 @@
       <tags>
         <tag>Mojave</tag>
         <tag>10.13.6</tag>
-        <tag>10.14</tag>
         <tag>17G2112</tag>
+        <tag>10.14</tag>
         <tag>framebuffer</tag>
         <tag>patch</tag>
       </tags>
@@ -752,11 +752,11 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>CPUFriend</tag>
         <tag>Lilu</tag>
         <tag>Plugins</tag>
-        <tag>CPU变频</tag>
         <tag>插件</tag>
+        <tag>CPUFriend</tag>
+        <tag>CPU变频</tag>
       </tags>
   </entry>
   <entry>
