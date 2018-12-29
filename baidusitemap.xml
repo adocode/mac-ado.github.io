@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    <lastmod>2018-12-29T00:51:25.066Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
     <lastmod>2018-12-26T09:35:34.179Z</lastmod>
   </url>  <url>
@@ -34,10 +37,10 @@
     <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/MacOS-use-the-dd-command-to-make-Ubuntu-install-USB-disk.html</loc>
+    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
+    <loc>https://blog.daliansky.net/MacOS-use-the-dd-command-to-make-Ubuntu-install-USB-disk.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
@@ -58,10 +61,10 @@
     <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Clover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</loc>
+    <loc>https://blog.daliansky.net/Use-HIDPI-to-solve-sleep-wake-up-black-screen,-Huaping-and-connect-the-external-monitor-the-correct-posture.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Use-HIDPI-to-solve-sleep-wake-up-black-screen,-Huaping-and-connect-the-external-monitor-the-correct-posture.html</loc>
+    <loc>https://blog.daliansky.net/Clover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html</loc>
@@ -76,19 +79,19 @@
     <loc>https://blog.daliansky.net/XiaoMiPro-Bluetooth-device-driver-correct-posture.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/HP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html</loc>
+    <loc>https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html</loc>
+    <loc>https://blog.daliansky.net/HP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Updated-Frequently-Asked-Questions-in-Sierra-or-high-sierra.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Display-interface-data-and-parameter-changes.html</loc>
+    <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
+    <loc>https://blog.daliansky.net/Display-interface-data-and-parameter-changes.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html</loc>
@@ -127,13 +130,10 @@
     <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    <lastmod>2018-12-20T10:03:26.086Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
+    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html</loc>
@@ -148,13 +148,13 @@
     <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.2-(17C88)-official-version-and-Clover-4333-original-image.html</loc>
-    <lastmod>2018-12-20T10:03:26.085Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/CoffeeLake-UHD-630-black-screen-direct-bright-screen-and-correct-adjustment-of-brightness-adjustment.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.1-(17B48)-official-version-and-Clover-4278-original-image.html</loc>
+    <lastmod>2018-12-20T10:03:26.085Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.2-(17C88)-official-version-and-Clover-4333-original-image.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.4-17E199-Release-Version-and-Clover-4418-Original-Image.html</loc>
