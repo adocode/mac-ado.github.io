@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Hackintool(Intel FB Patcher) USB定制视频]]></title>
     <url>%2FIntel-FB-Patcher-USB-Custom-Video.html</url>
-    <content type="text"><![CDATA[Hackintool(Intel FB Patcher) USB定制视频1-20-2019更新：10.14.x解除USB端口限制补丁1-20-2019更新：10.14.x解除USB端口限制补丁从10.14.2开始，旧有的解除USB端口限制的补丁已经失效，很多的台式机因此而无法使用到所有的端口，本视频教程就是帮助大家更好地定制自己的USB驱动主旨：将可用的端口控制在15个以内；USB 3.0端口优先，必要的情况下删除掉部分USB2.0端口警告：固定插入的设备要改成内建，否则会存在睡眠秒醒的问题小课堂：一条命令显示USB数量打开终端，输入命令：1sh -c "$(curl -fsSL https://raw.githubusercontent.com/daliansky/Hackintosh/master/Tools/usb_Ports)"输出如下：1234567891011121314151617181920212223242526+--XHC@14IOPCIDevice|+--XHC@14000000|+--HS01@14100000|+--HS02@14200000|+--HS03@14300000|+--HS04@14400000|+--HS05@14500000||+--Integrated_Webcam_HD@14500000|+--HS06@14600000||+--USB2.0-CRW@14600000|+--HS07@14700000|+--HS08@14800000||+--BCM20702A0@14800000|+--HS09@14900000|+--HS10@14a00000|+--USR1@14b00000|+--USR2@14c00000|+--SS01@14d00000|+--SS02@14e00000|+--SS03@14f00000+--pci80869d31@142IOPCIDevice+--AppleUSBXHCI@14000000AppleUSBController+--AppleUSBXHCIHub+--USB2.0-CRW@14600000AppleUSBDevice+--Integrated_Webcam_HD@14500000AppleUSBDevice+--BCM20702A0@14800000AppleUSBDevice 操作步骤config.plist配置文件修改的整体思路Part 1: 添加引导标志-uia_exclude_ss，目的：禁止加载SSxx设备，先把HSxx找出来Part 2: 添加引导标志uia_include=HS03,HS08 -uia_exclude_hs，目的：禁止加载HSxx设备，但保留HS03,HS08，保证鼠标和键盘工作，同时满足识别SSxx的需要Part 3: 删除引导标志uia_include=HS03,HS08 -uia_exclude_hs，目的：完成USB定制，让USB各端口恢复正常功能打开黑果小兵的部落阁：https://blog.daliansky.net搜索文章：Hackintool 或者 Intel FB Patcher下载:Download Hackintool下载：USBInjectAll.kext v0.7.1挂载：ESP分区将USBInjectAll.kext v0.7.1复制到EFI/CLOVER/kexts/Other目录下打开config.plist，在引导标志里添加参数：-uia_exclude_ss，保存重启运行Intel FB Patcher工具，转到General-&gt;USB选项将USB 2.0和USB 3.0设备插入并拔出系统的每个USB端口，这里有个窍门：看USB端口的颜色，蓝色为USB3.0，黑色为USB2.0。记录下来键盘和鼠标的接口，比如：HS03和HS08，后面我们会用到这两个端口做为参数注入到config.plist里，参数为：uia_include=HS03,HS08，意思是保留这两个端口的正常使用，下一步要屏蔽掉HSxx的所有接口，将之前的参数-uia_exclude_ss修改为-uia_exclude_hs，完整的参数变为：uia_include=HS03,HS08 -uia_exclude_hs意思是除了HS03和HS08外，其它所有的HSxx端口都不包括。保存重启运行Intel FB Patcher工具，转到General-&gt;USB选项将USB 3.0设备插入并拔出系统的每个USB端口，这里面注意：只有端口为SSxx的才会被识别出来将没变成绿色的所有的未用的端口都删除掉导出定制的USBPorts.kext文件将USBPorts.kext复制到EFI/CLOVER/kexts/Other目录下删除引导参数：uia_include=HS03,HS08 -uia_exclude_hs保存重启运行Intel FB Patcher工具，转到General-&gt;USB选项，检查USB端口情况，打开系统报告-USB查看USB 3.0是否变成5G]]></content>
+    <content type="text"><![CDATA[Hackintool(Intel FB Patcher) USB定制视频1-20-2019更新：10.14.x解除USB端口限制补丁1234567891011Comment: USB port limit patch 10.14.x modify by DalianSky(credit ydeng)Name: com.apple.iokit.IOUSBHostFamilyFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.xComment: USB Port limit patch 10.14.x modify by DalianSky(credits PMheart)Name: com.apple.driver.usb.AppleUSBXHCIFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.x从10.14.2开始，旧有的解除USB端口限制的补丁已经失效，很多的台式机因此而无法使用到所有的端口，本视频教程就是帮助大家更好地定制自己的USB驱动主旨：将可用的端口控制在15个以内；USB 3.0端口优先，必要的情况下删除掉部分USB2.0端口警告：固定插入的设备要改成内建，否则会存在睡眠秒醒的问题小课堂：一条命令显示USB数量打开终端，输入命令：1sh -c "$(curl -fsSL https://raw.githubusercontent.com/daliansky/Hackintosh/master/Tools/usb_Ports)"输出如下：1234567891011121314151617181920212223242526+--XHC@14IOPCIDevice|+--XHC@14000000|+--HS01@14100000|+--HS02@14200000|+--HS03@14300000|+--HS04@14400000|+--HS05@14500000||+--Integrated_Webcam_HD@14500000|+--HS06@14600000||+--USB2.0-CRW@14600000|+--HS07@14700000|+--HS08@14800000||+--BCM20702A0@14800000|+--HS09@14900000|+--HS10@14a00000|+--USR1@14b00000|+--USR2@14c00000|+--SS01@14d00000|+--SS02@14e00000|+--SS03@14f00000+--pci80869d31@142IOPCIDevice+--AppleUSBXHCI@14000000AppleUSBController+--AppleUSBXHCIHub+--USB2.0-CRW@14600000AppleUSBDevice+--Integrated_Webcam_HD@14500000AppleUSBDevice+--BCM20702A0@14800000AppleUSBDevice 操作步骤config.plist配置文件修改的整体思路Part 1: 添加引导标志-uia_exclude_ss，目的：禁止加载SSxx设备，先把HSxx找出来Part 2: 添加引导标志uia_include=HS03,HS08 -uia_exclude_hs，目的：禁止加载HSxx设备，但保留HS03,HS08，保证鼠标和键盘工作，同时满足识别SSxx的需要Part 3: 删除引导标志uia_include=HS03,HS08 -uia_exclude_hs，目的：完成USB定制，让USB各端口恢复正常功能打开黑果小兵的部落阁：https://blog.daliansky.net搜索文章：Hackintool 或者 Intel FB Patcher下载:Download Hackintool下载：USBInjectAll.kext v0.7.1挂载：ESP分区将USBInjectAll.kext v0.7.1复制到EFI/CLOVER/kexts/Other目录下打开config.plist，在引导标志里添加参数：-uia_exclude_ss，保存重启运行Intel FB Patcher工具，转到General-&gt;USB选项将USB 2.0和USB 3.0设备插入并拔出系统的每个USB端口，这里有个窍门：看USB端口的颜色，蓝色为USB3.0，黑色为USB2.0。记录下来键盘和鼠标的接口，比如：HS03和HS08，后面我们会用到这两个端口做为参数注入到config.plist里，参数为：uia_include=HS03,HS08，意思是保留这两个端口的正常使用，下一步要屏蔽掉HSxx的所有接口，将之前的参数-uia_exclude_ss修改为-uia_exclude_hs，完整的参数变为：uia_include=HS03,HS08 -uia_exclude_hs意思是除了HS03和HS08外，其它所有的HSxx端口都不包括。保存重启运行Intel FB Patcher工具，转到General-&gt;USB选项将USB 3.0设备插入并拔出系统的每个USB端口，这里面注意：只有端口为SSxx的才会被识别出来将没变成绿色的所有的未用的端口都删除掉导出定制的USBPorts.kext文件将USBPorts.kext复制到EFI/CLOVER/kexts/Other目录下删除引导参数：uia_include=HS03,HS08 -uia_exclude_hs保存重启运行Intel FB Patcher工具，转到General-&gt;USB选项，检查USB端口情况，打开系统报告-USB查看USB 3.0是否变成5G]]></content>
       <categories>
         <category>USB</category>
         <category>教程</category>
@@ -184,8 +184,8 @@
       </categories>
       <tags>
         <tag>Mojave</tag>
-        <tag>安装</tag>
         <tag>10.14</tag>
+        <tag>安装</tag>
         <tag>常见问题</tag>
       </tags>
   </entry>
@@ -425,8 +425,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>接口</tag>
         <tag>platform-id</tag>
+        <tag>接口</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -502,8 +502,8 @@
       </categories>
       <tags>
         <tag>AppleALC</tag>
-        <tag>声卡仿冒</tag>
         <tag>AppleHDA</tag>
+        <tag>声卡仿冒</tag>
       </tags>
   </entry>
   <entry>
@@ -610,9 +610,9 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>EFI</tag>
         <tag>gpt</tag>
         <tag>MacOS</tag>
+        <tag>EFI</tag>
         <tag>Fix</tag>
         <tag>修复</tag>
       </tags>
@@ -627,8 +627,8 @@
       <tags>
         <tag>10.12</tag>
         <tag>10.13</tag>
-        <tag>BlueTooth</tag>
         <tag>蓝牙</tag>
+        <tag>BlueTooth</tag>
         <tag>鼠标</tag>
         <tag>Mouse</tag>
       </tags>
@@ -793,8 +793,8 @@
         <tag>High Sierra</tag>
         <tag>驱动</tag>
         <tag>WIFI</tag>
-        <tag>BlueTooth</tag>
         <tag>蓝牙</tag>
+        <tag>BlueTooth</tag>
       </tags>
   </entry>
   <entry>
@@ -811,9 +811,9 @@
         <tag>High Sierra</tag>
         <tag>Lilu</tag>
         <tag>Plugins</tag>
-        <tag>platform-id</tag>
         <tag>Clover</tag>
         <tag>常见问题</tag>
+        <tag>platform-id</tag>
         <tag>Patch</tag>
         <tag>wake</tag>
       </tags>
@@ -888,10 +888,10 @@
         <category>教程</category>
       </categories>
       <tags>
+        <tag>EFI</tag>
         <tag>diskpart</tag>
         <tag>Windows</tag>
         <tag>分区</tag>
-        <tag>EFI</tag>
         <tag>ESP</tag>
       </tags>
   </entry>
