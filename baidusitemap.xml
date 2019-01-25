@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4895-original-image.html</loc>
-    <lastmod>2019-01-23T09:21:04.841Z</lastmod>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
+    <lastmod>2019-01-24T23:55:32.289Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
     <lastmod>2019-01-23T06:05:16.805Z</lastmod>
@@ -82,13 +82,16 @@
     <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html</loc>
-    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Use-HIDPI-to-solve-sleep-wake-up-black-screen,-Huaping-and-connect-the-external-monitor-the-correct-posture.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
+    <loc>https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html</loc>
+    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/Add-the-CLOVER-boot-to-the-correct-posture-of-the-UEFI-Boot-Option-Menu.html</loc>
+    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Clover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/HP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html</loc>
@@ -98,9 +101,6 @@
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Display-interface-data-and-parameter-changes.html</loc>
-    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Clover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/XiaoMiPro-notebook-Installation-10.13-readily-remember-and-share-EFI.html</loc>
@@ -136,10 +136,10 @@
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
+    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>
