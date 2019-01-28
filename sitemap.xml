@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    
+    <lastmod>2019-01-28T02:08:05.531Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
+    
+    <lastmod>2019-01-28T02:06:19.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
+    
+    <lastmod>2019-01-28T02:03:55.671Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
     
-    <lastmod>2019-01-24T23:55:32.289Z</lastmod>
+    <lastmod>2019-01-25T04:43:07.027Z</lastmod>
     
   </url>
   
@@ -16,30 +37,9 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
-    
-    <lastmod>2019-01-21T05:51:25.280Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Slide-value-acquisition-and-calculation.html</loc>
     
     <lastmod>2019-01-21T05:51:09.180Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
-    
-    <lastmod>2019-01-21T01:49:25.237Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
-    
-    <lastmod>2019-01-21T01:46:32.992Z</lastmod>
     
   </url>
   
