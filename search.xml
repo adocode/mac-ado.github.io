@@ -454,8 +454,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>platform-id</tag>
         <tag>接口</tag>
+        <tag>platform-id</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -531,8 +531,8 @@
       </categories>
       <tags>
         <tag>AppleALC</tag>
-        <tag>声卡仿冒</tag>
         <tag>AppleHDA</tag>
+        <tag>声卡仿冒</tag>
       </tags>
   </entry>
   <entry>
@@ -841,8 +841,8 @@
         <tag>Lilu</tag>
         <tag>Plugins</tag>
         <tag>Clover</tag>
-        <tag>常见问题</tag>
         <tag>platform-id</tag>
+        <tag>常见问题</tag>
         <tag>Patch</tag>
         <tag>wake</tag>
       </tags>
