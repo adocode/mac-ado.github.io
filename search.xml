@@ -213,9 +213,9 @@
       </categories>
       <tags>
         <tag>Mojave</tag>
+        <tag>安装</tag>
         <tag>10.14</tag>
         <tag>常见问题</tag>
-        <tag>安装</tag>
       </tags>
   </entry>
   <entry>
@@ -332,8 +332,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>AppleALC</tag>
+        <tag>教程</tag>
         <tag>AppleHDA</tag>
         <tag>HDMI</tag>
         <tag>Audio</tag>
@@ -469,8 +469,8 @@
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>小米Pro</tag>
         <tag>安装</tag>
+        <tag>小米Pro</tag>
         <tag>macOS</tag>
         <tag>XiaoMi-Pro</tag>
         <tag>XiaoMiPro</tag>
@@ -610,8 +610,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>EFI</tag>
+        <tag>教程</tag>
         <tag>惠普</tag>
         <tag>ENVY</tag>
         <tag>ad1xx</tag>
@@ -707,10 +707,10 @@
         <tag>10.13</tag>
         <tag>High Sierra</tag>
         <tag>黑屏</tag>
+        <tag>安装</tag>
         <tag>花屏</tag>
         <tag>EDID</tag>
         <tag>常见问题</tag>
-        <tag>安装</tag>
         <tag>屏蔽独显</tag>
       </tags>
   </entry>
