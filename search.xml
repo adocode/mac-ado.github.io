@@ -213,8 +213,8 @@
       </categories>
       <tags>
         <tag>Mojave</tag>
-        <tag>安装</tag>
         <tag>10.14</tag>
+        <tag>安装</tag>
         <tag>常见问题</tag>
       </tags>
   </entry>
@@ -454,8 +454,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>接口</tag>
         <tag>platform-id</tag>
+        <tag>接口</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -531,8 +531,8 @@
       </categories>
       <tags>
         <tag>AppleALC</tag>
-        <tag>声卡仿冒</tag>
         <tag>AppleHDA</tag>
+        <tag>声卡仿冒</tag>
       </tags>
   </entry>
   <entry>
@@ -610,8 +610,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>EFI</tag>
+        <tag>教程</tag>
         <tag>惠普</tag>
         <tag>ENVY</tag>
         <tag>ad1xx</tag>
@@ -639,9 +639,9 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>EFI</tag>
         <tag>gpt</tag>
         <tag>MacOS</tag>
+        <tag>EFI</tag>
         <tag>Fix</tag>
         <tag>修复</tag>
       </tags>
@@ -841,8 +841,8 @@
         <tag>Lilu</tag>
         <tag>Plugins</tag>
         <tag>Clover</tag>
-        <tag>platform-id</tag>
         <tag>常见问题</tag>
+        <tag>platform-id</tag>
         <tag>Patch</tag>
         <tag>wake</tag>
       </tags>
@@ -917,10 +917,10 @@
         <category>教程</category>
       </categories>
       <tags>
+        <tag>EFI</tag>
         <tag>diskpart</tag>
         <tag>Windows</tag>
         <tag>分区</tag>
-        <tag>EFI</tag>
         <tag>ESP</tag>
       </tags>
   </entry>
