@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
+    
+    <lastmod>2019-02-26T03:23:21.314Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    
+    <lastmod>2019-02-26T03:14:21.583Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
     
     <lastmod>2019-02-25T05:07:36.395Z</lastmod>
@@ -205,13 +219,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
-    
-    <lastmod>2019-02-21T04:31:13.993Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Clover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</loc>
     
     <lastmod>2019-02-21T04:31:13.977Z</lastmod>
@@ -320,13 +327,6 @@
     <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
     
     <lastmod>2019-01-02T00:15:52.398Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    
-    <lastmod>2019-01-02T00:09:57.265Z</lastmod>
     
   </url>
   

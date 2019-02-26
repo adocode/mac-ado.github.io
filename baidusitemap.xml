@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
+    <lastmod>2019-02-26T03:23:21.314Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    <lastmod>2019-02-26T03:14:21.583Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
     <lastmod>2019-02-25T05:07:36.395Z</lastmod>
   </url>  <url>
@@ -88,9 +94,6 @@
     <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
     <lastmod>2019-02-21T04:31:13.998Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
-    <lastmod>2019-02-21T04:31:13.993Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13-official-version-and-Clover-4221-original-image.html</loc>
     <lastmod>2019-02-21T04:31:13.977Z</lastmod>
   </url>  <url>
@@ -139,9 +142,6 @@
     <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
     <lastmod>2019-01-02T00:15:52.398Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    <lastmod>2019-01-02T00:09:57.265Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/AppleALC-Supported-codecs.html</loc>
     <lastmod>2019-01-02T00:09:57.264Z</lastmod>
   </url>  <url>
@@ -154,16 +154,16 @@
     <loc>https://blog.daliansky.net/MacOS-multi-system-Bluetooth-device-automatically-connected.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
-    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
-    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Under-Windows-using-DISKPART-to-create-EFI-points.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
+    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
+    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
@@ -178,10 +178,10 @@
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
