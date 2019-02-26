@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    <lastmod>2019-02-26T04:03:38.671Z</lastmod>
+    <lastmod>2019-02-26T04:07:45.464Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
     <lastmod>2019-02-26T03:23:21.314Z</lastmod>
@@ -160,10 +160,10 @@
     <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
+    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
+    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
