@@ -227,8 +227,8 @@
       </categories>
       <tags>
         <tag>Mojave</tag>
-        <tag>安装</tag>
         <tag>10.14</tag>
+        <tag>安装</tag>
         <tag>常见问题</tag>
       </tags>
   </entry>
@@ -545,8 +545,8 @@
       </categories>
       <tags>
         <tag>AppleALC</tag>
-        <tag>声卡仿冒</tag>
         <tag>AppleHDA</tag>
+        <tag>声卡仿冒</tag>
       </tags>
   </entry>
   <entry>
@@ -624,8 +624,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>EFI</tag>
+        <tag>教程</tag>
         <tag>惠普</tag>
         <tag>ENVY</tag>
         <tag>ad1xx</tag>
@@ -653,9 +653,9 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>EFI</tag>
         <tag>gpt</tag>
         <tag>MacOS</tag>
+        <tag>EFI</tag>
         <tag>Fix</tag>
         <tag>修复</tag>
       </tags>
@@ -931,10 +931,10 @@
         <category>教程</category>
       </categories>
       <tags>
+        <tag>EFI</tag>
         <tag>diskpart</tag>
         <tag>Windows</tag>
         <tag>分区</tag>
-        <tag>EFI</tag>
         <tag>ESP</tag>
       </tags>
   </entry>
