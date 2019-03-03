@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
+    
+    <lastmod>2019-03-03T00:30:44.027Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
     
-    <lastmod>2019-03-01T09:07:45.526Z</lastmod>
+    <lastmod>2019-03-03T00:26:16.420Z</lastmod>
     
   </url>
   
@@ -138,13 +145,6 @@
     <loc>https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html</loc>
     
     <lastmod>2019-02-21T04:31:14.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
-    
-    <lastmod>2019-02-21T04:31:14.125Z</lastmod>
     
   </url>
   
