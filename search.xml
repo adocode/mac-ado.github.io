@@ -468,8 +468,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>接口</tag>
         <tag>platform-id</tag>
+        <tag>接口</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -855,8 +855,8 @@
         <tag>Lilu</tag>
         <tag>Plugins</tag>
         <tag>Clover</tag>
-        <tag>platform-id</tag>
         <tag>常见问题</tag>
+        <tag>platform-id</tag>
         <tag>Patch</tag>
         <tag>wake</tag>
       </tags>
