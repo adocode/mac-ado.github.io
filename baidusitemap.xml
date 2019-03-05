@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
-    <lastmod>2019-03-04T09:17:54.091Z</lastmod>
+    <lastmod>2019-03-05T04:25:40.135Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html</loc>
+    <lastmod>2019-03-05T04:20:38.857Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
     <lastmod>2019-03-03T00:26:16.420Z</lastmod>
@@ -106,9 +109,6 @@
     <loc>https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html</loc>
     <lastmod>2019-02-21T04:31:13.999Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html</loc>
-    <lastmod>2019-02-21T04:31:13.999Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Updated-Frequently-Asked-Questions-in-Sierra-or-high-sierra.html</loc>
     <lastmod>2019-02-21T04:31:13.998Z</lastmod>
   </url>  <url>
@@ -160,16 +160,16 @@
     <loc>https://blog.daliansky.net/MacOS-multi-system-Bluetooth-device-automatically-connected.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Under-Windows-using-DISKPART-to-create-EFI-points.html</loc>
-    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
+    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
+    <loc>https://blog.daliansky.net/Under-Windows-using-DISKPART-to-create-EFI-points.html</loc>
+    <lastmod>2018-12-20T10:03:26.087Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
     <lastmod>2018-12-20T10:03:26.087Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
@@ -184,16 +184,16 @@
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
-    <lastmod>2018-12-20T10:03:26.086Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
-    <lastmod>2018-12-20T10:03:26.085Z</lastmod>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <lastmod>2018-12-20T10:03:26.085Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>
