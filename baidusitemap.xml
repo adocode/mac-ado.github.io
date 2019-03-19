@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
+    <lastmod>2019-03-19T01:39:40.921Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
+    <lastmod>2019-03-19T01:39:04.236Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
     <lastmod>2019-03-08T03:58:00.219Z</lastmod>
   </url>  <url>
@@ -39,12 +45,6 @@
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.1-(17B48)-official-version-and-Clover-4278-original-image.html</loc>
     <lastmod>2019-03-01T03:17:47.202Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
-    <lastmod>2019-03-01T03:17:40.683Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
-    <lastmod>2019-03-01T03:17:31.127Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
     <lastmod>2019-03-01T03:16:24.516Z</lastmod>
@@ -85,10 +85,10 @@
     <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
+    <loc>https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html</loc>
+    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
