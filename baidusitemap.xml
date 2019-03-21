@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
-    <lastmod>2019-03-20T04:27:42.985Z</lastmod>
+    <lastmod>2019-03-21T00:05:28.762Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
+    <lastmod>2019-03-21T00:05:12.518Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
     <lastmod>2019-03-19T02:41:33.026Z</lastmod>
@@ -12,9 +15,6 @@
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
     <lastmod>2019-03-19T01:39:04.236Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
-    <lastmod>2019-03-08T03:28:15.885Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html</loc>
     <lastmod>2019-03-08T01:01:44.546Z</lastmod>
@@ -91,10 +91,10 @@
     <loc>https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
+    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
+    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
@@ -184,10 +184,10 @@
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
