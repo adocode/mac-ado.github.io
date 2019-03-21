@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[黑苹果长期维护机型整理清单]]></title>
-    <url>%2Fundefined.html</url>
+    <url>%2FHackintosh-long-term-maintenance-model-checklist.html</url>
     <content type="text"><![CDATA[原引：黑苹果长期维护机型整理 by @我意 远景链接 github仓库整理这份清单的目的：在于给想体验黑苹果的人一个方向，也想减少大家重复造轮子，节约大家的时间。所有文件均归属于原作者，本清单只列出链接。如果您不希望你的链接被这份清单收录，请发送邮件到 y010204025@126.com,我将移除链接清单收录了4个月以内的有人长期维护并更新过 EFI 的机型链接，如果有新的链接希望收录到这份清单，请发送邮件到 y010204025@126.com致谢：感谢一直为黑苹果进行开发的各位开发者和愿意共享出 EFI 文件的开发者，谢谢！更新日期：2018年10月06日2018年12月25日2019年01月15日2019年3月1日 by @黑果小兵按机型重新排版将该文档上传到仓库，方便其它人提交合并，共同维护2019年3月21日发布到博客添加底噪的黑苹果合集 笔记本部分机型机型名称发布地址教程地址备注ACER 宏碁Acer-Aspire-A515链接Acer-A515链接链接ACER Aspire E1Lenovo-471g链接链接ACER Aspire E1-471gAero-15X链接链接Acer_E1-572G链接ASUS 华硕Asus ROG GL552JX链接链接Asus ROG GL552JXAsus Zenbook UX360UAK链接链接ASUS UX32VD链接链接ASUS UX32VDAsus P8P67 Pro链接链接ASUS-FX504GE链接链接华硕 FX504GEASUS-S5100UQ-X510UQ链接ASUS-X441UVK链接ASUS GL551JW链接Asus-A43SJ链接链接Asus A43SJAsus A455LA链接链接Asus S455LAASUS UX330UA (Kabylake）链接链接ASUS UX330UA (Kabylake）ASUS FX50J链接Asus F556U (X556UQK)链接链接Asus F556U (X556UQK)ASUS F455LD链接ASUS ZenBook链接链接支持型号: - UX310 (KabyLake) - UX330 (KabyLake) (not tested) - UX330 (KabyLake-R) - UX410 (KabyLake) - UX430 (KabyLake) - UX430 (KabyLake-R)Asus K55VD链接链接Asus K55VDASUS X550JX链接ASUS VivoBook X510UQR链接链接Vivobook S510UA链接链接Vivobook S510UADELL 戴尔Alienware-Aurora-R7链接Alienware 17 R4 I7-7700HQ链接链接外星人17 R4Dell 3442链接链接Dell 3443Dell 3543链接 链接Dell-Ins-14-5447链接链接Dell-Ins-14-5447Dell 5559链接Dell 5559Dell-5577链接Dell 7000系列链接链接Dell Inspiron 7000 I/II (7x60/7x72)Dell-Inspiron-14-7447链接链接Dell-Inspiron-14-7447Dell 7460和7560链接链接戴尔7460和7560Dell 7567链接Dell-Inspiron-15-7000-i7-8550u链接Dell-7559-Hackintosh链接链接Dell 7559Dell 7559链接链接Dell 7559Dell M3800/XPS9530链接链接Dell M3800和 XPS 9530Dell E5440链接Dell E5440Dell-E7440链接Dell OptiPlex 3050链接链接Dell-Precision-5510链接Dell-Precision-5510Dell XPS 9350链接链接Dell XPS 9350Dell XPS 9360链接链接Dell XPS 9360Dell XPS 9360链接链接 链接 链接 链接 链接链接Dell XPS 9360Dell XPS 9530链接链接XPS 9530Dell XPS 9550链接链接Dell XPS 9550Dell XPS 15 (9550)链接链接Dell XPS 15 (9550)Dell XPS 9560链接链接Dell XPS 9560Dell XPS 9570链接HP 惠普惠普 probook/elitebook/zbook 系列链接链接除8x60W,8x70W系列之外的机型，二代 CPU 及之前的机型仅支持到10.13.x惠普Envy Haswell J/K/Q/N系列笔记本链接链接仅4代envy 机型HP 15 D062TU链接Hp Envy13 ad1xxx链接链接惠普 envy13HP-840-G1链接链接EliteDesk-800-G3-Mini链接链接INTEL 英特尔英特尔Intel DH67GD, DH67BL, DH67CF, DH67CL系列主板链接链接Intel DH67GD, DH67BL, DH67CF, DH67CL系列主板技嘉GB-BXi5H-4200 系列主板链接链接技嘉GB-BXi5H-4200 系列主板英特尔 NUC 5、6、7、8系列链接链接mini 主机SurfacePro4链接链接surfacePro 4Lenovo 联想联想 Y50(70)系列链接链接Y50(70)1080P和4K 版本联想 U330/U430/U530系列链接链接Lenovo Z50(40)-70系列链接链接Lenovo Z50-70/Z40-70 (use make install_z50) Lenovo G50-70/G40-70 (use make install_g50)Lenovo Y520/Y720链接链接联想Y520及Y720Lenovo Ideapad 310-14IKB链接链接Lenovo-E560链接链接Lenovo Flex 15链接链接Lenovo Flex 15Lenovo V3000链接链接Lenovo V3000Lenovo-Ideapad-320-15ISK链接Ideapad-320链接Lenovo-V330-15IKB链接链接联想小新Air 13 IWL链接链接联想小新Air 13 2018 IWLLenovo-chao5000链接联想潮5000Lenovo-Xiaoxin-Chao-7000链接链接联想小新潮7000，已支持14寸、12.5寸，13.3寸后续会添加支持，请期待……联想小新锐7000链接链接Lenovo-XiaoXin700-15ISK链接链接Lenovo-XiaoXin700-15ISK联想Y7000链接链接Lenovo_Legion_Y7000-1060链接链接Lenovo_Legion_Y7000-1060lenovo-Yoga-3-Pro-1370链接链接联想 yaga3/proYoga-12链接链接Thinkpad E450C链接ThinkPad-E480链接链接ThinkPad E550链接链接E550四代 CPUThinkPad X1 3rd链接链接ThinkPad X1 3代Thinkpad X1 Carbon 6th Gen链接链接Thinkpad X1 Carbon 6th GenThinkPad X1C 6th链接链接ThinkPad X1c 6thThinkpad X1 Yoga / Carbon链接链接Thinkpad X1 Yoga / CarbonThinkpad-X1-Extreme链接 链接链接如果没猜错，这货就是 x1隐士，好几个人问过，这下省事了ThinkPad-X220链接ThinkPad-X220ThinkPad X220链接链接支持10.14+ThinkPad x230链接链接ThinkPad X230ThinkPad x230链接链接ThinkPad X230ThinkPad X260系列链接链接ThinkPad X260ThinkPad T420系列链接链接包含T420、T420s、T520、X220X220，可通过修改支持到10.14.xThinkPad T440p链接 链接链接ThinkPad T460系列链接链接可支持 T460、T560、T470和 T470p4款机型Thinkpad-T460p链接ThinkPad T470P链接链接ThinkPad T470pThinkPad T480s链接 链接 链接链接 链接ThinkPad T480sThinkPad T480s链接链接ThinkPad L440链接Thinkpad P51链接链接Thinkpad P51Thinkpad-Yoga-12链接链接MSI 微星MSI-GL62m-7REX链接msi-GL72M-7RDX链接链接MSI GP62 6QG-1071XCN链接链接微星 GP62XiaoMi 小米XIaoMi Air链接链接小米 AirXiaoMi NoteBook Air链接链接XiaoMi NoteBook AirXiaoMi Air链接链接XiaoMiAir_i7 7500uXiaoMi-Air链接XIaoMi Air链接链接小米airXiaoMi Notebook Air链接链接小米Notebppk AirXiaoMi Notebook Air-skylake链接链接Xiaomi-Notebook-Air-1Gen链接这哥们应该是忠实的米粉，有兴趣的多多关注XiaoMi Pro 系列链接链接小米 Pro系列XiaoMi 游戏本8代链接小米游戏本，猜的XiaomiGaming链接额，小米游戏本Other 其它Clevo-P950HR-Hackintosh链接蓝天P950HR，猜的Hasse Shinelon A40L-i7链接链接这是神舟k650D链接神舟K 650DMECHREVO-X1链接机械革命X1更多机型链接引用自：国光之前维护的仓库链接底噪出品：one-key-hidpi笔记本相关资源hotpatchP-little链接见 ThinkPad 交流群宪武做的一套 ThinkPad 补丁，刚开始上传，请期待无线网卡推荐无线网卡MiniPCIe 接口(推荐 BCM4352HMB、DW1510)博通：BCM94322HM8L、Asus BCM94352、AzureWave AW-CE123H、AzureWave AW-NB290H、DW1510、DW1520、DW1550、高通：DW1515、DW1705、AR5BHB92、AR5BHB112 AR9285芯片在10.14将不再被支持PCIe接口博通：BCM94331CD、BCM94322MC、BCM94360CD高通：AR5BXB72、AR5BXB92、AR5BXB112M.2接口(推荐 BCM94352ZAE、DW1560)博通：BCM94352Z(AE)、DW1560，DW1830高通：DW1707(AR9565)台式（部分）ga-z270x-ug链接链接clover-x79-e5-2670-gtx650链接链接华南 x79 V2MSI-b360链接7700k-R9_390-iGPU链接Asus STRIX Z270-ERyzen-Hackintosh-Tutorial链接链接z370n-hackintosh链接 链接Gigabyte Z370Ngigabyte-z390-aorus链接asrock-z370m-pro4链接链接更多机型链接引用自：国光之前维护的仓库链接底噪出品：one-key-hidpi 附：Github 上一些贡献者的配置Acer Aspire E1-471GAcer V5-573GAcer Aspire E5-571-376TAcer Aspire V3-371-52FFAcer Aspire E5-473-30N5Acer Aspire V3-572GAlienware 17 R4 KBL-1060 Dual GraphicsAsus FX50J/X550JXAsus H81M-KAsus ZenbookAsus Vivobook S510UAAsus ROG Zephyrus S GX531Dell 7559 4K SKLDell XPS13-9350-SkylakeDell XPS15-9550Dell XPS15-9550Dell XPS13-9360Dell XPS15-9530-HaswellGigabyte GA-Z77-DS3HGigabyte GA-H97-D3HGigabyte GA-Z270M-D3HGigabyte X99P-SLIGigabyte Aero15-WGigabyte z170x ud3 ultraGigabyte Sabre15KLenovo chao 5000Lenovo G50-70MLenovo Thinkpad P50Lenove Thinkpad T450Lenovo Thinkpad T460PLenovo T430sLenovo T430-NVS5400MLenovo T450sLenovo U330/U430/U530Lenovo Y470Lenovo Y50-70Lenovo Z50-70Lenovo B470Lenovo G470Lenovo T470 (i5-6300U)Lenovo x230Lenovo Yoga 3 ProLenovo-v3000-ISELenovo-rescuer-15-iskLenovo Ideapad 310-14IKBLenovo-XiaoXin700-15ISKHUANAN X79HP ProBook/EliteBook/ZBookHP Elitebook 8470pHP Elitebook 8470pHP Elitebook 840 G1/G2HP Elitebook Folio 9480mHP EliteDesk 800 G2 TWRHP Envy J-seriesHP Envy K-seriesHP Envy Q-seriesHP Envy N-seriesHP Z420 WorkstationSamsung 450r5jSamsung nt550p7c-IVYXiaoMi NoteBook ProXiaomi Mi Air 13.3 Skylake-U 2016 (1rst Gen)]]></content>
       <categories>
         <category>教程</category>
@@ -32,14 +32,14 @@
   <entry>
     <title><![CDATA[【黑果小兵】macOS Mojave 10.14.3 18D42 正式版 with Clover 4859原版镜像]]></title>
     <url>%2FmacOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</url>
-    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14.3(18D42)正式版 with Clover 4859原版镜像1月22日，苹果发布了MacOS Mojave 10.14.2的更新版本macOS 10.14.2的更新日志如下：macOS Mojave 10.14.3 更新提高了 Mac 的安全性、稳定性和兼容性。镜像靓点：Clover默认配置文件config.plist原则上支持各种机型引导安装；去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；1-20-2019更新：10.14.x解除USB端口限制补丁适用于X299和某些Z270/370/390 远景原帖1234567891011Comment: USB port limit patch 10.14.x modify by DalianSky(credit ydeng)Name: com.apple.iokit.IOUSBHostFamilyFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.xComment: USB Port limit patch 10.14.x modify by DalianSky(credits PMheart)Name: com.apple.driver.usb.AppleUSBXHCIFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.xCLOVER更新到v4859驱动更新Lilu v1.3.2AppleALC v1.3.5Whatevergreen v1.2.7USBInjectALL v0.7.1添加config_UHD630_4K_HBR2_3E9B0000配置文件添加config_UHD630_1080P_HBR_3E9B0000配置文件添加config_WHISKEYLAKE_3EA0配置文件新增加config_WHISKEYLAKE_3EA0WHISKEY LAKE平台的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4859，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；300系列主板请于drivers64UEFI目录中移除AptioMemoryFix-64.efi添加OsxAptioFix2Drv-free2000.efi该驱动位于/EFI/CLOVER/drivers-off目录下 或者 Slide值获取及计算Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.7，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 安装教程简单版安装过程（简易版）：详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS\ Mojave\ 10.14.3\(18D42\)\ Installer\ with\ Clover\ 4859.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14.3(18D42) Installer with Clover 4859.dmg) = 450c55e5c5d3f4bfae6bb55ff2a33aeaWindows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.3.2)、AppleALC(v1.3.5)、WhateverGreen(v1.2.7)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图：结合了台式机和笔记本的截屏，仅供参考 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：请点击下载MEGA：请点击下载 接头暗号：4-26wSPRWqbt4eFHDlDP8bj2iyWxao81eDqN4UFd-JcOneDrive: 请点击下载MD5 (macOS Mojave 10.14.3(18D42) Installer with Clover 4859.dmg) = 450c55e5c5d3f4bfae6bb55ff2a33aea 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
+    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14.3(18D42)正式版 with Clover 4859原版镜像1月22日，苹果发布了MacOS Mojave 10.14.2的更新版本macOS 10.14.2的更新日志如下：macOS Mojave 10.14.3 更新提高了 Mac 的安全性、稳定性和兼容性。镜像靓点：Clover默认配置文件config.plist原则上支持各种机型引导安装；去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；1-20-2019更新：10.14.x解除USB端口限制补丁适用于X299和某些Z270/370/390 远景原帖1234567891011Comment: USB port limit patch 10.14.x modify by DalianSky(credit ydeng)Name: com.apple.iokit.IOUSBHostFamilyFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.xComment: USB Port limit patch 10.14.x modify by DalianSky(credits PMheart)Name: com.apple.driver.usb.AppleUSBXHCIFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.xCLOVER更新到v4859驱动更新Lilu v1.3.2AppleALC v1.3.5Whatevergreen v1.2.7USBInjectALL v0.7.1添加config_UHD630_4K_HBR2_3E9B0000配置文件添加config_UHD630_1080P_HBR_3E9B0000配置文件添加config_WHISKEYLAKE_3EA0配置文件新增加config_WHISKEYLAKE_3EA0WHISKEY LAKE平台的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4859，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；300系列主板请于drivers64UEFI目录中移除AptioMemoryFix-64.efi添加OsxAptioFix2Drv-free2000.efi该驱动位于/EFI/CLOVER/drivers-off目录下 或者 Slide值获取及计算Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.7，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 Mojave硬件支持列表 安装教程简单版安装过程（简易版）：详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS\ Mojave\ 10.14.3\(18D42\)\ Installer\ with\ Clover\ 4859.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14.3(18D42) Installer with Clover 4859.dmg) = 450c55e5c5d3f4bfae6bb55ff2a33aeaWindows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.3.2)、AppleALC(v1.3.5)、WhateverGreen(v1.2.7)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图：结合了台式机和笔记本的截屏，仅供参考 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：请点击下载MEGA：请点击下载 接头暗号：4-26wSPRWqbt4eFHDlDP8bj2iyWxao81eDqN4UFd-JcOneDrive: 请点击下载MD5 (macOS Mojave 10.14.3(18D42) Installer with Clover 4859.dmg) = 450c55e5c5d3f4bfae6bb55ff2a33aea 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <categories>
         <category>下载</category>
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.3</tag>
@@ -105,14 +105,14 @@
   <entry>
     <title><![CDATA[【黑果小兵】macOS Mojave 10.14.2 18C54 正式版 with Clover 4792原版镜像]]></title>
     <url>%2FmacOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</url>
-    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14.2(18C54)正式版 with Clover 4792原版镜像12月5日，苹果发布了MacOS Mojave 10.14.2的更新版本macOS 10.14.2的更新日志如下：增加了对Wi-Fi通话的RTT（实时文本）支持解决了iTunes可能无法通过第三方&quot;隔空播放&quot;扬声器媒体播放的问题此外，苹果表示macOS Mojave 10.14.2更新提高了Mac的稳定性、兼容性和安全性，建议所有用户安装。以下是与macOS Mojave兼容的Mac机型：MacBook (2015年前期或之后的机型)MacBook Air (2012年中期或之后的机型)MacBook Pro (2012年中期或之后的机型)Mac mini (2012年后期或之后的机型)iMac (2012年后期或之后的机型)iMac Pro (2017年)Mac Pro (2013年后期的机型，以及支持特定Metal技术图形卡的2010年中期和2012年中期的机型)镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加config_WHISKEYLAKE_3EA0WHISKEY LAKE平台的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4792，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；300系列主板请于drivers64UEFI目录中移除AptioMemoryFix-64.efi添加OsxAptioFix2Drv-free2000.efiClover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.4，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了config_WHISKEYLAKE_3EA0.plist和原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程1-20-2019更新：10.14.x解除USB端口限制补丁1234567891011Comment: USB port limit patch 10.14.x modify by DalianSky(credit ydeng)Name: com.apple.iokit.IOUSBHostFamilyFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.xComment: USB Port limit patch 10.14.x modify by DalianSky(credits PMheart)Name: com.apple.driver.usb.AppleUSBXHCIFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.x 安装教程简单版安装过程（简易版）：详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS Mojave 10.14.2(18C54) Installer with Clover 4792.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14.2(18C54) Installer with Clover 4792.dmg) = 12e20b7d4257e746fe51ee0aac424c01Windows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.8)、AppleALC(v1.3.4)、WhateverGreen(v1.2.4)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图：结合了台式机和笔记本的截屏，仅供参考 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：请点击下载OneDrive：请点击下载MD5 (macOS Mojave 10.14.2(18C54) Installer with Clover 4792.dmg) = 12e20b7d4257e746fe51ee0aac424c01 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
+    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14.2(18C54)正式版 with Clover 4792原版镜像12月5日，苹果发布了MacOS Mojave 10.14.2的更新版本macOS 10.14.2的更新日志如下：增加了对Wi-Fi通话的RTT（实时文本）支持解决了iTunes可能无法通过第三方&quot;隔空播放&quot;扬声器媒体播放的问题此外，苹果表示macOS Mojave 10.14.2更新提高了Mac的稳定性、兼容性和安全性，建议所有用户安装。以下是与macOS Mojave兼容的Mac机型：MacBook (2015年前期或之后的机型)MacBook Air (2012年中期或之后的机型)MacBook Pro (2012年中期或之后的机型)Mac mini (2012年后期或之后的机型)iMac (2012年后期或之后的机型)iMac Pro (2017年)Mac Pro (2013年后期的机型，以及支持特定Metal技术图形卡的2010年中期和2012年中期的机型)镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加config_WHISKEYLAKE_3EA0WHISKEY LAKE平台的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4792，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；300系列主板请于drivers64UEFI目录中移除AptioMemoryFix-64.efi添加OsxAptioFix2Drv-free2000.efiClover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.4，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了config_WHISKEYLAKE_3EA0.plist和原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 Mojave硬件支持列表1-20-2019更新：10.14.x解除USB端口限制补丁1234567891011Comment: USB port limit patch 10.14.x modify by DalianSky(credit ydeng)Name: com.apple.iokit.IOUSBHostFamilyFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.xComment: USB Port limit patch 10.14.x modify by DalianSky(credits PMheart)Name: com.apple.driver.usb.AppleUSBXHCIFind: 83FB0F0FReplace: 83FB3F0FMatchOS: 10.14.x 安装教程简单版安装过程（简易版）：详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS Mojave 10.14.2(18C54) Installer with Clover 4792.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14.2(18C54) Installer with Clover 4792.dmg) = 12e20b7d4257e746fe51ee0aac424c01Windows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.8)、AppleALC(v1.3.4)、WhateverGreen(v1.2.4)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图：结合了台式机和笔记本的截屏，仅供参考 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：请点击下载OneDrive：请点击下载MD5 (macOS Mojave 10.14.2(18C54) Installer with Clover 4792.dmg) = 12e20b7d4257e746fe51ee0aac424c01 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <categories>
         <category>下载</category>
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.2</tag>
@@ -139,14 +139,14 @@
   <entry>
     <title><![CDATA[【黑果小兵】macOS Mojave 10.14.1 18B75 正式版 with Clover 4726原版镜像]]></title>
     <url>%2FmacOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</url>
-    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14.1(18B75)正式版 with Clover 4726原版镜像10月30日，苹果发布了MacOS Mojave 10.14.1的更新版本macOS 10.14.1的更新日志如下：增加了FaceTime视频和音频群聊功能，采用端对端加密保护隐私，支持多达32人同时通话，可从“信息”群组对话发起群聊，也可在通话过程中随时加入。新增了70多个表情符号形象，其中包括红发、白发和卷发的全新人物形象，新的光头人物表情符号，更富表现力的笑脸以及更多动物、运动和食物类表情符号。此外，苹果表示macOS Mojave 10.14.1更新提高了Mac的稳定性、兼容性和安全性，建议所有用户安装。以下是与macOS Mojave兼容的Mac机型：MacBook (2015年前期或之后的机型)MacBook Air (2012年中期或之后的机型)MacBook Pro (2012年中期或之后的机型)Mac mini (2012年后期或之后的机型)iMac (2012年后期或之后的机型)iMac Pro (2017年)Mac Pro (2013年后期的机型，以及支持特定Metal技术图形卡的2010年中期和2012年中期的机型)镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加HD620/UHD620的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4726，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.4，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 安装教程简单版**安装过程（简易版）：**详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg) = 87928afc8f6d4d11e066a5044f8875bfWindows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.8)、AppleALC(v1.3.3)、WhateverGreen(v1.2.4)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图： 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：https://pan.baidu.com/s/1M34keyVL3_0qYsLXTwcbpAMD5 (macOS Mojave 10.14.1(18B75) Installer with Clover 4726.dmg) = 744b8154b1829123520e2685e99991a7 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
+    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14.1(18B75)正式版 with Clover 4726原版镜像10月30日，苹果发布了MacOS Mojave 10.14.1的更新版本macOS 10.14.1的更新日志如下：增加了FaceTime视频和音频群聊功能，采用端对端加密保护隐私，支持多达32人同时通话，可从“信息”群组对话发起群聊，也可在通话过程中随时加入。新增了70多个表情符号形象，其中包括红发、白发和卷发的全新人物形象，新的光头人物表情符号，更富表现力的笑脸以及更多动物、运动和食物类表情符号。此外，苹果表示macOS Mojave 10.14.1更新提高了Mac的稳定性、兼容性和安全性，建议所有用户安装。以下是与macOS Mojave兼容的Mac机型：MacBook (2015年前期或之后的机型)MacBook Air (2012年中期或之后的机型)MacBook Pro (2012年中期或之后的机型)Mac mini (2012年后期或之后的机型)iMac (2012年后期或之后的机型)iMac Pro (2017年)Mac Pro (2013年后期的机型，以及支持特定Metal技术图形卡的2010年中期和2012年中期的机型)镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加HD620/UHD620的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4726，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.4，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 Mojave硬件支持列表 安装教程简单版**安装过程（简易版）：**详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg) = 87928afc8f6d4d11e066a5044f8875bfWindows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.8)、AppleALC(v1.3.3)、WhateverGreen(v1.2.4)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图： 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：https://pan.baidu.com/s/1M34keyVL3_0qYsLXTwcbpAMD5 (macOS Mojave 10.14.1(18B75) Installer with Clover 4726.dmg) = 744b8154b1829123520e2685e99991a7 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <categories>
         <category>下载</category>
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.1</tag>
@@ -171,14 +171,14 @@
   <entry>
     <title><![CDATA[【黑果小兵】macOS Mojave 10.14 18A391 正式版 with Clover 4674原版镜像]]></title>
     <url>%2FmacOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</url>
-    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14(18A391)正式版 with Clover 4674原版镜像随着苹果发布了最新的MacBookPro 15,1/15,2这两款产品，macOS Mojave已于9月24日发布了正式版，它原生支持第八代核显;众多的8代CPU的朋友们可以彻底告别黑屏的痛苦镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加HD620/UHD620的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4674，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.3，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 安装教程简单版**安装过程（简易版）：**详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg) = 87928afc8f6d4d11e066a5044f8875bfWindows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.7)、AppleALC(v1.3.2)、WhateverGreen(v1.2.3)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图： 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：请点击下载 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：https://pan.baidu.com/s/1b0dNTcBxLhWKbxmlbJMd0QMD5 (macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg) = 87928afc8f6d4d11e066a5044f8875bf 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
+    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14(18A391)正式版 with Clover 4674原版镜像随着苹果发布了最新的MacBookPro 15,1/15,2这两款产品，macOS Mojave已于9月24日发布了正式版，它原生支持第八代核显;众多的8代CPU的朋友们可以彻底告别黑屏的痛苦镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加HD620/UHD620的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4674，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于drivers-Off；Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.3，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 Mojave硬件支持列表 安装教程简单版**安装过程（简易版）：**详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12md5 macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg # 空格以\ 代替MD5 (macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg) = 87928afc8f6d4d11e066a5044f8875bfWindows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.14安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Intel FB-Patcher使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.7)、AppleALC(v1.3.2)、WhateverGreen(v1.2.3)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图： 特别感谢@宪武 提供的新的hotpatch的全套方法 下载链接迅雷离线下载：请点击下载 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：https://pan.baidu.com/s/1b0dNTcBxLhWKbxmlbJMd0QMD5 (macOS Mojave 10.14(18A391) Installer with Clover 4674.dmg) = 87928afc8f6d4d11e066a5044f8875bf 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <categories>
         <category>下载</category>
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14</tag>
@@ -219,14 +219,14 @@
   <entry>
     <title><![CDATA[【黑果小兵】macOS Mojave 10.14(18A389) with Clover 4670原版镜像]]></title>
     <url>%2FmacOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</url>
-    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14(18A389) with Clover 4670原版镜像随着苹果发布了最新的MacBookPro 15,1/15,2这两款产品，macOS Mojave的发布也日益临近，它原生支持第八代核显;众多的8代CPU的朋友们可以彻底告别黑屏的痛苦镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加HD620/UHD620的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4670，支持UEFI启动安装;Drivers64UEFI/目录下只保留的AptioMemoryFix.efi以解决卡+++问题；添加ApfsDriverLoader-64.efi，自动加载apfs.efi驱动，同时去除日志显示；其它的驱动位于drivers-Off；Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.2，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程如果无法引导到安装界面，可于Clover主界面-Options-Graphics进行显卡仿冒；不会操作的请移步：Clover使用教程 macOS安装教程本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.7)、AppleALC(v1.3.1)、WhateverGreen(v1.2.2)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图： 下载链接迅雷离线下载：请点击下载 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：请点击下载MD5 (macOS Mojave 10.14(18A389) Installer with Clover 4670.dmg) = fa9ae4c01242051c013250e1025c794c 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
+    <content type="text"><![CDATA[【黑果小兵】macOS Mojave 10.14(18A389) with Clover 4670原版镜像随着苹果发布了最新的MacBookPro 15,1/15,2这两款产品，macOS Mojave的发布也日益临近，它原生支持第八代核显;众多的8代CPU的朋友们可以彻底告别黑屏的痛苦镜像靓点：去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；新增加HD620/UHD620的配置文件，原则上支持安装时驱动显卡；新增UHD630的配置文件，机型设置为MacBookPro15,2，显卡自动侦测；本镜像采用官方原版app制作，集成Clover 4670，支持UEFI启动安装;Drivers64UEFI/目录下只保留的AptioMemoryFix.efi以解决卡+++问题；添加ApfsDriverLoader-64.efi，自动加载apfs.efi驱动，同时去除日志显示；其它的驱动位于drivers-Off；Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到V1.2.2，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；Clover默认配置文件config.plist原则上支持各种机型引导安装；同时新增加了原生支持HD620/UHD620的配置文件config_UHD620_HD620_59160000.plist和八代UHD630的配置文件config_UHD630.plist，供您享用；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 Mojave硬件支持列表如果无法引导到安装界面，可于Clover主界面-Options-Graphics进行显卡仿冒；不会操作的请移步：Clover使用教程 macOS安装教程本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：macOS High Sierra区笔记本安装情况集合帖支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动已更新Lilu(v1.2.7)、AppleALC(v1.3.1)、WhateverGreen(v1.2.2)等驱动；本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图： 下载链接迅雷离线下载：请点击下载 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云：请点击下载MD5 (macOS Mojave 10.14(18A389) Installer with Clover 4670.dmg) = fa9ae4c01242051c013250e1025c794c 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <categories>
         <category>下载</category>
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14</tag>
@@ -273,8 +273,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G2112</tag>
@@ -290,8 +290,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G65</tag>
@@ -307,8 +307,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.5</tag>
         <tag>17F77</tag>
@@ -378,8 +378,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.4</tag>
         <tag>1.7e+200</tag>
@@ -409,8 +409,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -468,8 +468,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -583,8 +583,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.1</tag>
         <tag>17B48</tag>
@@ -702,8 +702,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>17A405</tag>
       </tags>
@@ -754,8 +754,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
       </tags>
   </entry>
@@ -782,8 +782,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>GM</tag>
         <tag>17A362a</tag>
@@ -904,8 +904,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>DB9</tag>
         <tag>17A360a</tag>
         <tag>dmg</tag>
@@ -919,9 +919,9 @@
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>10.12.6</tag>
         <tag>Download</tag>
+        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -963,10 +963,10 @@
       </categories>
       <tags>
         <tag>10.13</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
-        <tag>镜像</tag>
-        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -992,9 +992,9 @@
       </categories>
       <tags>
         <tag>10.13</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
         <tag>DB7</tag>
+        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1063,8 +1063,8 @@
       </categories>
       <tags>
         <tag>Sierra</tag>
-        <tag>镜像</tag>
         <tag>10.12.6</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>安装</tag>
       </tags>
@@ -1093,8 +1093,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>17A344b</tag>
       </tags>
