@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    <lastmod>2019-03-21T01:19:26.880Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
+    <lastmod>2019-03-21T01:18:51.228Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
     <lastmod>2019-03-21T00:52:16.782Z</lastmod>
   </url>  <url>
@@ -15,12 +21,6 @@
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
     <lastmod>2019-03-21T00:51:33.254Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
-    <lastmod>2019-03-21T00:48:11.027Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
-    <lastmod>2019-03-21T00:05:28.762Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
     <lastmod>2019-03-21T00:05:12.518Z</lastmod>
@@ -94,10 +94,10 @@
     <loc>https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
+    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
+    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
     <lastmod>2019-02-21T04:31:14.050Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
@@ -193,10 +193,10 @@
     <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
+    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>
