@@ -1,3 +1,4 @@
+https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
 https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html
 https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html
 https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html
@@ -17,4 +18,3 @@ https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-i
 https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html
 https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G2112-Release-Special-with-Clover-4606-original-mirror.html
 https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
-https://blog.daliansky.net/macOS-High-Sierra-10.13.5-17F77-Release-Version-with-Clover-4512-original-mirror.html
