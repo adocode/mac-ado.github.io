@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    <lastmod>2019-03-28T02:51:22.755Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
+    <lastmod>2019-03-28T02:50:27.661Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
-    <lastmod>2019-03-26T07:01:34.246Z</lastmod>
+    <lastmod>2019-03-28T02:48:48.802Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    <lastmod>2019-03-27T03:06:03.204Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
     <lastmod>2019-03-26T02:07:20.483Z</lastmod>
@@ -67,9 +76,6 @@
     <loc>https://blog.daliansky.net/macOS-Sierra-10-12-6-16G29-with-Clover-4133-original-mirror-with-multi-drive.html</loc>
     <lastmod>2019-03-01T03:15:38.444Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    <lastmod>2019-02-26T04:07:45.464Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
     <lastmod>2019-02-26T03:23:21.314Z</lastmod>
   </url>  <url>
@@ -121,9 +127,6 @@
     <loc>https://blog.daliansky.net/Updated-Frequently-Asked-Questions-in-Sierra-or-high-sierra.html</loc>
     <lastmod>2019-02-21T04:31:13.998Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
-    <lastmod>2019-02-21T04:31:13.998Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Clover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</loc>
     <lastmod>2019-02-21T04:31:13.977Z</lastmod>
   </url>  <url>
@@ -150,9 +153,6 @@
   </url>  <url>
     <loc>https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html</loc>
     <lastmod>2019-02-21T04:31:13.875Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
-    <lastmod>2019-02-15T05:33:28.831Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/AppleALC-Supported-codecs.html</loc>
     <lastmod>2019-01-02T00:09:57.264Z</lastmod>
@@ -190,10 +190,10 @@
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
