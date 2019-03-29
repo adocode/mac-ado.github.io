@@ -360,7 +360,7 @@
   <entry>
     <title><![CDATA[【黑果小兵】CLOVER v2.4 r4438集成小米笔记本PRO EFI安装说明]]></title>
     <url>%2FCLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</url>
-    <content type="text"><![CDATA[运行Clover_v2.4k_r4438.pkg安装程序下载链接：Clover_v2.4k_r4438.pkg本安装程序会覆盖你的EFI，所以请事先备份EFI，再执行改名或者删除的操作，安装程序会安装全新的EFI到你的ESP分区（其实Clover会自动在你的macOS系统根目录下创建EFI-Backups并且自动备份）点击继续请先阅读更新内容，然后点击继续如果是更新安装的情况下是不需要更改安装位置的，由于我是测试安装，所以点击更改安装位置本例中，我选择的安装位置是EFI_TEST，点击继续勾选仅安装UEFI开机版本，勾选安装Clover到EFI系统区，勾选附带的三套开机主题，点击Drivers64UEFI勾选HFSPlus apfs AptioMemoryFix勾选安装全部RC scripts到全部可开机的OSX磁区，点击安装安装开始，系统会要求输入用户密码，请输入密码，之后点击安装软件程序会自动将包含小米笔记本PRO的EFI安装到ESP分区安装完成，请点击关闭 将config_4-13.plist重命名为config.plist打开终端，输入命令：1diskutil mount ESP # 挂载ESP分区，假如你的ESP分区名称为：ESP如果ESP分区没有命名的话，可以使用以下命令：1diskutil list命令输出信息：12345/dev/disk4 (disk image): #: TYPE NAME SIZE IDENTIFIER 0: GUID_partition_scheme +6.0 GB disk4 1: EFI EFI 209.7 MB disk4s1 2: Apple_HFS EFI_TEST 5.7 GB disk4s2系统显示disk4s1为EFI分区，使用重命名命令：12diskutil rename disk4s1 ESP # 将disk4s1重命名为ESPdiskutil mount ESP # 挂载ESP分区在本例子中，我使用的是disk image，也就是新建了个包含EFI分区的镜像做演示，你的设备名很有可能是disk0s1当然你也可以直接使用应用程序CLOVER CONFIGURATOR至于如何重命名这个就不需要我多说了吧。 EFI下载/更新https://github.com/daliansky/XiaoMi-Pro 教程结束 特别鸣谢:@Steve @风之痕 @烎⁵⁷ 提供的EFI测试及部分素材 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！ QQ群:247451054 小米PRO黑苹果高级群137188006 小米PRO黑苹果689011732 小米笔记本Pro黑苹果]]></content>
+    <content type="text"><![CDATA[运行Clover_v2.4k_r4438.pkg安装程序下载链接：Clover_v2.4k_r4438.pkg本安装程序会覆盖你的EFI，所以请事先备份EFI，再执行改名或者删除的操作，安装程序会安装全新的EFI到你的ESP分区（其实Clover会自动在你的macOS系统根目录下创建EFI-Backups并且自动备份）点击继续请先阅读更新内容，然后点击继续如果是更新安装的情况下是不需要更改安装位置的，由于我是测试安装，所以点击更改安装位置本例中，我选择的安装位置是EFI_TEST，点击继续勾选仅安装UEFI开机版本，勾选安装Clover到EFI系统区，勾选附带的三套开机主题，点击Drivers64UEFI勾选HFSPlus apfs AptioMemoryFix勾选安装全部RC scripts到全部可开机的OSX磁区，点击安装安装开始，系统会要求输入用户密码，请输入密码，之后点击安装软件程序会自动将包含小米笔记本PRO的EFI安装到ESP分区安装完成，请点击关闭 将config_4-13.plist重命名为config.plist打开终端，输入命令：1diskutil mount ESP # 挂载ESP分区，假如你的ESP分区名称为：ESP如果ESP分区没有命名的话，可以使用以下命令：1diskutil list命令输出信息：12345/dev/disk4 (disk image): #: TYPE NAME SIZE IDENTIFIER 0: GUID_partition_scheme +6.0 GB disk4 1: EFI EFI 209.7 MB disk4s1 2: Apple_HFS EFI_TEST 5.7 GB disk4s2系统显示disk4s1为EFI分区，使用重命名命令：12diskutil rename disk4s1 ESP # 将disk4s1重命名为ESPdiskutil mount ESP # 挂载ESP分区在本例子中，我使用的是disk image，也就是新建了个包含EFI分区的镜像做演示，你的设备名很有可能是disk0s1当然你也可以直接使用应用程序CLOVER CONFIGURATOR至于如何重命名这个就不需要我多说了吧。 EFI下载/更新https://github.com/daliansky/XiaoMi-Pro 其它机型EFI下载：https://github.com/daliansky/Hackintosh 教程结束 特别鸣谢:@Steve @风之痕 @烎⁵⁷ 提供的EFI测试及部分素材 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！ QQ群:247451054 小米PRO黑苹果高级群137188006 小米PRO黑苹果689011732 小米笔记本Pro黑苹果]]></content>
       <categories>
         <category>教程</category>
       </categories>
@@ -651,7 +651,7 @@
   <entry>
     <title><![CDATA[惠普HP ENVY Laptop 13-ad1xx笔记本电脑安装MacOS手记及EFI分享]]></title>
     <url>%2FHP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html</url>
-    <content type="text"><![CDATA[惠普HP ENVY Laptop 13-ad1xx笔记本电脑安装MacOS手记及EFI分享群里有网友新购买了惠普HP ENVY Laptop 13-ad110tu笔记本电脑，想安装MacOS系统。本着折腾的原则，制作了hotpatch补丁。现将安装过程记录下来，以供后来者参考。 电脑配置规格详细信息电脑型号HP ENVY Laptop 13-ad1xx 笔记本电脑操作系统Windows 10 64位 ( DirectX 12 )处理器英特尔 Core i5-8250U @ 1.60GHz 四核主板惠普 83A8 ( 英特尔 Xeon E3 - 1200 v6/7th Gen Intel Core)显卡英特尔 UHD Graphics 620 ( 128 MB / 惠普 )内存8 GB主硬盘英特尔 NVMe SSDPEKKF25 ( 256 GB / 固态硬盘 )显示器京东方 BOE070E ( 13.3 英寸 )声卡瑞昱 @ 英特尔 High Definition Audio 控制器网卡英特尔 Dual Band Wireless-AC 7265 制作EFI提取 DSDT/SSDT，制作hotpatch；添加独显屏蔽补丁，以适用于其它相似机型；添加虚拟网卡驱动，以解决icloud及AppStore登录问题；配置其它驱动程序；打包EFI。 安装过程制作USB安装盘，替换EFI，进入Clover报错，将Drivers64UEFI目录下的OsxAptioFixDrv-64.efi替换为OsxAptioFix2Drv-64.efi，顺利进入Clover，可以正确识别NVMe SSD以及外置移动硬盘，分区抹盘完成安装，过程顺利。 完善驱动程序声卡：型号为ALC298，注入ID：28，使用AppleALC仿冒，顺利加载；修正HDMI Audio输出信息；网卡：INTEL的无线网卡截止到目前还是全球无解，使用购买赠送的TYPE-C转EtherNet网卡免驱动直接使用；显卡：Intel UHD Graphics 620，Platform-id为：0x59170000，目前还没法原生驱动，上次在安装小米Pro的时候已经折腾很久也没有驱动上，昨晚又花了近三个小时还是无果，最后采取的是仿冒方式，Platform-id为：0x19160000，通过SSDT-Config.aml注入，修改显存为2048MB；通过读取Clover的源程序，发现UHD 620仿冒的是HD 620的Platform-id:0x59160000，有机会再测试吧。蓝牙使用Intel，工作正常；电池信息正常；触摸板正常工作；显示器亮度调节正常；USB端口信息未完善，需要使用SSDT-UIAC.aml进行修改；PCI设备信息未修正； 系统截图*** 备注:该截图为显卡未驱动状态 *** EFI更新源https://github.com/daliansky/hp-envy13 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
+    <content type="text"><![CDATA[惠普HP ENVY Laptop 13-ad1xx笔记本电脑安装MacOS手记及EFI分享群里有网友新购买了惠普HP ENVY Laptop 13-ad110tu笔记本电脑，想安装MacOS系统。本着折腾的原则，制作了hotpatch补丁。现将安装过程记录下来，以供后来者参考。 电脑配置规格详细信息电脑型号HP ENVY Laptop 13-ad1xx 笔记本电脑操作系统Windows 10 64位 ( DirectX 12 )处理器英特尔 Core i5-8250U @ 1.60GHz 四核主板惠普 83A8 ( 英特尔 Xeon E3 - 1200 v6/7th Gen Intel Core)显卡英特尔 UHD Graphics 620 ( 128 MB / 惠普 )内存8 GB主硬盘英特尔 NVMe SSDPEKKF25 ( 256 GB / 固态硬盘 )显示器京东方 BOE070E ( 13.3 英寸 )声卡瑞昱 @ 英特尔 High Definition Audio 控制器网卡英特尔 Dual Band Wireless-AC 7265 制作EFI提取 DSDT/SSDT，制作hotpatch；添加独显屏蔽补丁，以适用于其它相似机型；添加虚拟网卡驱动，以解决icloud及AppStore登录问题；配置其它驱动程序；打包EFI。 安装过程制作USB安装盘，替换EFI，进入Clover报错，将Drivers64UEFI目录下的OsxAptioFixDrv-64.efi替换为OsxAptioFix2Drv-64.efi，顺利进入Clover，可以正确识别NVMe SSD以及外置移动硬盘，分区抹盘完成安装，过程顺利。 完善驱动程序声卡：型号为ALC298，注入ID：28，使用AppleALC仿冒，顺利加载；修正HDMI Audio输出信息；网卡：INTEL的无线网卡截止到目前还是全球无解，使用购买赠送的TYPE-C转EtherNet网卡免驱动直接使用；显卡：Intel UHD Graphics 620，Platform-id为：0x59170000，目前还没法原生驱动，上次在安装小米Pro的时候已经折腾很久也没有驱动上，昨晚又花了近三个小时还是无果，最后采取的是仿冒方式，Platform-id为：0x19160000，通过SSDT-Config.aml注入，修改显存为2048MB；通过读取Clover的源程序，发现UHD 620仿冒的是HD 620的Platform-id:0x59160000，有机会再测试吧。蓝牙使用Intel，工作正常；电池信息正常；触摸板正常工作；显示器亮度调节正常；USB端口信息未完善，需要使用SSDT-UIAC.aml进行修改；PCI设备信息未修正； 系统截图*** 备注:该截图为显卡未驱动状态 *** EFI更新源https://github.com/daliansky/hp-envy13 其它机型EFI下载：https://github.com/daliansky/Hackintosh 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <categories>
         <category>教程</category>
       </categories>
@@ -672,8 +672,8 @@
       </categories>
       <tags>
         <tag>EFI</tag>
-        <tag>UEFI</tag>
         <tag>Clover</tag>
+        <tag>UEFI</tag>
         <tag>引导</tag>
       </tags>
   </entry>
@@ -752,8 +752,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>黑屏</tag>
         <tag>安装</tag>
+        <tag>黑屏</tag>
         <tag>花屏</tag>
         <tag>EDID</tag>
         <tag>常见问题</tag>
