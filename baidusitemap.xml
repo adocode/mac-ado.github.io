@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
+    <lastmod>2019-03-29T06:01:17.285Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
+    <lastmod>2019-03-29T05:55:29.634Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
     <lastmod>2019-03-29T05:15:56.377Z</lastmod>
   </url>  <url>
@@ -13,9 +19,6 @@
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
     <lastmod>2019-03-28T02:50:27.661Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
-    <lastmod>2019-03-28T02:48:48.802Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     <lastmod>2019-03-27T03:06:03.204Z</lastmod>
   </url>  <url>
@@ -24,9 +27,6 @@
   </url>  <url>
     <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     <lastmod>2019-03-25T04:06:51.753Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
-    <lastmod>2019-03-22T00:18:18.881Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
     <lastmod>2019-03-21T01:18:51.228Z</lastmod>
@@ -190,16 +190,16 @@
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
-    <lastmod>2018-12-20T10:03:26.086Z</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
-    <lastmod>2018-12-20T10:03:26.085Z</lastmod>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <lastmod>2018-12-20T10:03:26.085Z</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
     <lastmod>2018-12-20T10:03:26.085Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>
