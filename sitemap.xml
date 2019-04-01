@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    
+    <lastmod>2019-04-01T09:04:29.294Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     
     <lastmod>2019-04-01T04:38:04.513Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
     
     <lastmod>2019-03-28T02:50:27.661Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    
-    <lastmod>2019-03-27T03:06:03.204Z</lastmod>
     
   </url>
   
@@ -450,14 +450,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
     
