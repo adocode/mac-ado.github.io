@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    <lastmod>2019-04-01T04:38:04.513Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
     <lastmod>2019-04-01T00:23:36.656Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
-    <lastmod>2019-04-01T00:22:47.648Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
     <lastmod>2019-03-29T06:07:04.087Z</lastmod>
