@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    <lastmod>2019-04-03T02:37:16.448Z</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     <lastmod>2019-04-01T09:04:29.294Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
-    <lastmod>2019-04-01T04:38:04.513Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
     <lastmod>2019-04-01T00:23:36.656Z</lastmod>
@@ -190,10 +190,10 @@
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     <lastmod>2018-12-20T10:03:26.086Z</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
