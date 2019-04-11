@@ -9,8 +9,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.4</tag>
@@ -55,8 +55,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.3</tag>
@@ -128,8 +128,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.2</tag>
@@ -162,8 +162,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.1</tag>
@@ -194,8 +194,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14</tag>
@@ -242,8 +242,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14</tag>
@@ -290,8 +290,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G2112</tag>
@@ -307,8 +307,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G65</tag>
@@ -324,8 +324,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.5</tag>
         <tag>17F77</tag>
@@ -395,8 +395,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.4</tag>
         <tag>1.7e+200</tag>
@@ -426,8 +426,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -485,8 +485,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -600,11 +600,11 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
-        <tag>dmg</tag>
+        <tag>下载</tag>
         <tag>10.13.1</tag>
         <tag>17B48</tag>
+        <tag>dmg</tag>
       </tags>
   </entry>
   <entry>
@@ -719,8 +719,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>17A405</tag>
       </tags>
@@ -753,9 +753,9 @@
         <tag>10.13</tag>
         <tag>High Sierra</tag>
         <tag>黑屏</tag>
-        <tag>安装</tag>
         <tag>花屏</tag>
         <tag>EDID</tag>
+        <tag>安装</tag>
         <tag>常见问题</tag>
         <tag>屏蔽独显</tag>
       </tags>
@@ -771,8 +771,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
       </tags>
   </entry>
@@ -799,8 +799,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>GM</tag>
         <tag>17A362a</tag>
@@ -921,11 +921,11 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
+        <tag>dmg</tag>
         <tag>DB9</tag>
         <tag>17A360a</tag>
-        <tag>dmg</tag>
       </tags>
   </entry>
   <entry>
@@ -936,9 +936,9 @@
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>下载</tag>
         <tag>10.12.6</tag>
         <tag>Download</tag>
-        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -980,10 +980,10 @@
       </categories>
       <tags>
         <tag>10.13</tag>
-        <tag>下载</tag>
-        <tag>镜像</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
+        <tag>镜像</tag>
+        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -1009,9 +1009,9 @@
       </categories>
       <tags>
         <tag>10.13</tag>
+        <tag>镜像</tag>
         <tag>下载</tag>
         <tag>DB7</tag>
-        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1080,8 +1080,8 @@
       </categories>
       <tags>
         <tag>Sierra</tag>
-        <tag>10.12.6</tag>
         <tag>镜像</tag>
+        <tag>10.12.6</tag>
         <tag>dmg</tag>
         <tag>安装</tag>
       </tags>
@@ -1110,8 +1110,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>17A344b</tag>
       </tags>
