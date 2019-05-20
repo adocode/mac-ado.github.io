@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    <lastmod>2019-05-20</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    <lastmod>2019-05-16</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
     <lastmod>2019-05-15</lastmod>
   </url>  <url>
@@ -15,12 +21,6 @@
   </url>  <url>
     <loc>https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html</loc>
     <lastmod>2019-05-13</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    <lastmod>2019-05-09</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
-    <lastmod>2019-05-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
     <lastmod>2019-04-15</lastmod>
@@ -199,10 +199,10 @@
     <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
+    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>
