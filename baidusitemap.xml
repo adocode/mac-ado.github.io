@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
+    <lastmod>2019-06-05</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    <lastmod>2019-06-05</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     <lastmod>2019-05-20</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     <lastmod>2019-05-16</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
-    <lastmod>2019-05-15</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
     <lastmod>2019-05-14</lastmod>
@@ -169,16 +172,16 @@
     <loc>https://blog.daliansky.net/MacOS-multi-system-Bluetooth-device-automatically-connected.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
-    <lastmod>2018-12-20</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
-    <lastmod>2018-12-20</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Under-Windows-using-DISKPART-to-create-EFI-points.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
+    <lastmod>2018-12-20</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
+    <lastmod>2018-12-20</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
@@ -193,16 +196,16 @@
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
-    <lastmod>2018-12-20</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
+    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <lastmod>2018-12-20</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html</loc>
     <lastmod>2018-12-20</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>

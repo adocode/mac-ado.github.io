@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
+    
+    <lastmod>2019-06-05T00:13:49.526Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    
+    <lastmod>2019-06-05T00:11:12.582Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     
     <lastmod>2019-05-20T03:06:51.325Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     
     <lastmod>2019-05-16T02:09:34.921Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
-    
-    <lastmod>2019-05-15T06:07:35.621Z</lastmod>
     
   </url>
   
